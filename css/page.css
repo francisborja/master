@@ -88,6 +88,11 @@ fill: #aaa;
 fill: #333;
 }
 
+ul.posts li {
+    list-style: none;
+    list-style-type: none;
+}
+
 img {
     max-width: 100%;
     border-radius: 2px;
