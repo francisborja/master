@@ -1,3 +1,27 @@
+nav {
+    padding: 20px 0 15px 0;
+}
+
+nav #navbar-logo {
+    vertical-align: middle;
+    text-align: left;
+    margin: 10px 0 0 30px;
+}
+
+nav ul.nav {
+    font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+    list-style: none;
+    font-weight: 700;
+    text-align: right;
+    margin: -40px 50px 0 0;
+}
+
+nav ul.nav li.nav {
+    display: inline;
+    list-style-type: none;
+    padding-right: 10px;
+}
+
 nav ul.nav li.nav a.nav {
     padding: 30px 20px 30px 20px;
     margin: 0 -2px 0 -2px;
