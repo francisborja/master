@@ -8,7 +8,7 @@ nav #navbar-logo {
     margin: 10px 0 0 30px;
 }
 
-nav ~ ul {
+nav ul {
     font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
     list-style: none;
     font-weight: 700;
