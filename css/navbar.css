@@ -16,8 +16,11 @@ nav ul.nav {
     margin: -40px 50px 0 0;
 }
 
-nav ul.nav li.nav a.nav {
+nav ul.nav li.nav {
     display: inline;
+}
+
+nav ul.nav li.nav a.nav {
     padding: 30px 20px 30px 20px;
     margin: 0 -2px 0 -2px;
     color: #777;
