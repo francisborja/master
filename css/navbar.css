@@ -21,11 +21,6 @@ nav ul.nav li #nav {
     display: inline;
     list-style: none;
     list-style-type: none;
-}
-
-nav ul.nav li #nav {
-    list-style: none;
-    list-style-type: none;
     color: #777;
     -webkit-transition: ease-in-out 0.3s;
 }
