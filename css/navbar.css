@@ -18,6 +18,7 @@ nav ul.nav {
 
 nav ul.nav li.nav {
     display: inline;
+    list-style-type: none;
 }
 
 nav ul.nav li.nav a.nav {
