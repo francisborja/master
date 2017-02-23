@@ -5,7 +5,21 @@ paginate: 5
 excerpt_separator: <!--excerpt-->
 paginate_path: "/blog/page-:num"
 include: ["_pages"]
+
+#Google
 google_analytics: UA-84144727-2
+google_site_verification: iLcn0SOTj8DwWZ4p_P_h3J_lxE8i1ZikWIx4lthZuCY
+
+#SEO
+title: Francis Borja
+description: My name is Francis. I like to write and design stuff.
+logo: /assets/logomark-color.png
+
+#Social
+social:
+  links:
+    - https://twitter.com/freeingfrancis
+    - https://instagram.com/freeingfrancis
 
 url: https://francisborja.com
 enforce_ssl: francisborja.com
@@ -21,11 +35,11 @@ defaults:
 
 
 # Twitter Cards
-title: Francis Borja
-description: My name is Francis. I like to write and design stuff.
 twitter_username: freeingfrancis
 site_username: freeingfrancis
 creator_username: freeingfrancis
+author:
+  twitter: freeingfrancis
 
 
 
