@@ -18,7 +18,7 @@ nav ul.nav {
 
 nav ul.nav li {
     display: inline;
-    color: #777;
+    color: #777!important;
     -webkit-transition: ease-in-out 0.3s;
 }
 
