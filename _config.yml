@@ -1,0 +1,132 @@
+name: Francis Borja
+markdown: kramdown
+permalink: /:title
+paginate: 5
+excerpt_separator: <!--excerpt-->
+paginate_path: "/blog/page-:num"
+include: ["_pages"]
+google_analytics: UA-84144727-2
+
+url: https://francisborja.com
+enforce_ssl: francisborja.com
+
+# Post Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+
+# Twitter Cards
+title: Francis Borja
+description: My name is Francis. I like to write and design stuff.
+twitter_username: freeingfrancis
+site_username: freeingfrancis
+creator_username: freeingfrancis
+
+
+
+
+
+gems:
+- activesupport
+- addressable
+- app_configuration
+- bigdecimal
+- bundler
+- bundler-unload
+- coffee-script
+- coffee-script-source
+- colorator
+- concurrent-ruby
+- did_you_mean
+- ethon
+- execjs
+- executable-hooks
+- faraday
+- fastercsv
+- ffi
+- forwardable-extended
+- gem-wrappers
+- gemoji
+- github-pages
+- github-pages-health-check
+- html-pipeline
+- i18n
+- io-console
+- jekyll
+- jekyll-avatar
+- jekyll-coffeescript
+- jekyll-default-layout
+- jekyll-feed
+- jekyll-gist
+- jekyll-github-metadata
+- jekyll-import
+- jekyll-mentions
+- jekyll-optional-front-matter
+- jekyll-paginate
+- jekyll-readme-index
+- jekyll-redirect-from
+- jekyll-relative-links
+- jekyll-sass-converter
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-swiss
+- jekyll-theme-architect
+- jekyll-theme-cayman
+- jekyll-theme-dinky
+- jekyll-theme-hacker
+- jekyll-theme-leap-day
+- jekyll-theme-merlot
+- jekyll-theme-midnight
+- jekyll-theme-minimal
+- jekyll-theme-modernist
+- jekyll-theme-primer
+- jekyll-theme-slate
+- jekyll-theme-tactile
+- jekyll-theme-time-machine
+- jekyll-titles-from-headings
+- jekyll-watch
+- jemoji
+- json
+- kramdown
+- liquid
+- listen
+- mercenary
+- mini_portile2
+- minima
+- minitest
+- multipart-post
+- net-dns
+- net-telnet
+- nokogiri
+- octokit
+- openssl
+- paginate
+- pathutil
+- power_assert
+- psych
+- public_suffix
+- rake
+- rails
+- rb-fsevent
+- rb-inotify
+- rdoc
+- rouge
+- ruby_dep
+- rubygems-bundler
+- rubygems-update
+- rvm
+- safe_yaml
+- sass
+- sawyer
+- terminal-table
+- test-unit
+- thread_safe
+- typhoeus
+- tzinfo
+- unicode-display_width
+- xmlrpc

@@ -1,0 +1,130 @@
+body {
+    font-size: 100%!important;
+    size: 100%!important;
+    width: 100%!important;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.container {
+    float: center;
+    width: 500px;
+    margin: auto;
+}
+
+.post-container {
+    margin: 200px 30px 200px 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #2082ac;
+    -webkit-transition: ease-in-out 0.3s;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #3d93b8;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: 700;
+    color: #555;
+    font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+}
+
+h1 a {
+    color: #555;
+    -webkit-transition: ease-in-out 0.3s;
+}
+
+h1 a:hover {
+    color: #333;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 100;
+    color: #555;
+    font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+}
+
+h3 {
+    font-size: 14px;
+    color: #999;
+    font-style: italic;
+    font-weight: 100;
+    font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+    line-height: 160%;
+    margin-bottom: 50px;
+}
+
+.date {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.5;
+    color: #AAA;
+    font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+
+    margin-top: -10px;
+}
+
+hr {
+    background-color: #e5e5e5;
+    height: 5px;
+    border: none;
+    width: 30%;
+    margin-left: 0;
+    margin-bottom: -1%;
+}
+
+p {
+    font-size: 16px;
+    color: #555;
+    font-family: 'Duplicate Ionic', Georgia, serif;
+    font-weight: normal;
+    line-height: 160%;
+
+    /*FOR TYPOGRAPHIC SUPPORT*/
+    text-rendering: optimizeLegibility;
+    font-variant-ligatures: contextual;
+    -webkit-font-variant-ligatures: common-ligatures;
+    -webkit-font-feature-settings: "kern";
+    font-feature-settings: "kern";
+    font-kerning: normal;
+}
+
+.pagination {
+    text-align: center;
+    color: #555;
+    margin-top: 150px;
+}
+
+#arrow-next {
+fill: #aaa;
+-webkit-transition: ease-in-out 0.2s;
+}
+
+#next:hover #arrow-next {
+fill: #333;
+}
+
+#arrow-previous {
+fill: #aaa;
+-webkit-transition: ease-in-out 0.2s;
+}
+
+#previous:hover #arrow-previous {
+fill: #333;
+}
+
+ul.posts li {
+    list-style: none;
+    list-style-type: none;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 2px;
+}
