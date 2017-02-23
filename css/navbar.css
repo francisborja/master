@@ -19,6 +19,7 @@ nav ul.nav {
 
 nav ul li.nav a.nav {
     display: inline;
+    list-style-type: none;
     padding: 30px 20px 30px 20px;
     margin: 0 -2px 0 -2px;
     color: #777;
