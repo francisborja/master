@@ -8,7 +8,7 @@ nav #navbar-logo {
     margin: 10px 0 0 30px;
 }
 
-nav #nav ul {
+nav ul #nav {
     font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
     list-style: none;
     font-weight: 700;
@@ -16,11 +16,8 @@ nav #nav ul {
     margin: -40px 50px 0 0;
 }
 
-nav #nav ul li {
-    display: inline;
-}
-
 nav ul li #nav {
+    display: inline;
     color: #777;
     -webkit-transition: ease-in-out 0.3s;
 }
