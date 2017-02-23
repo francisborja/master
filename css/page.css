@@ -36,14 +36,14 @@ a:hover {
 
 .container h2 {
     font-size: 20px;
-    font-weight: 700;
+    font-weight: 900;
     color: #555;
     font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
 }
 
 .container h3 {
     font-size: 30px;
-    font-weight: 500;
+    font-weight: 900;
     color: #555;
     font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
 }
