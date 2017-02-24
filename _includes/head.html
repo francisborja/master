@@ -6,8 +6,17 @@
 
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
-{% seo %}
 
+<script type="text/javascript">
+  <!--
+  if (screen.width <= 1000) {
+    window.location = "/mobile";
+  }
+  //-->
+</script>
+
+
+{% seo %}
 
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png?v=M4ok69EyKJ">
 <link rel="icon" type="image/png" href="/assets/favicons/favicon-32x32.png?v=M4ok69EyKJ" sizes="32x32">
@@ -22,15 +31,6 @@
 <meta name="msapplication-TileImage" content="/assets/favicons/mstile-144x144.png?v=M4ok69EyKJ">
 <meta name="msapplication-config" content="/assets/favicons/browserconfig.xml?v=M4ok69EyKJ">
 <meta name="theme-color" content="#ffffff">
-
-
-<script type="text/javascript">
-  <!--
-  if (screen.width <= 1000) {
-    window.location = "/mobile";
-  }
-  //-->
-</script>
 
 
 <meta name="twitter:card" content="summary_large_image">
