@@ -37,7 +37,7 @@
 <meta name="twitter:site" content="@site_username">
 <meta name="twitter:creator" content="@creator_username">
 {% if page.title %}
-  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:title" content="{{ page.title }} - {{ site.title }}">
 {% else %}
   <meta name="twitter:title" content="{{ site.title }}">
 {% endif %}
@@ -53,7 +53,7 @@
 
 
 {% if page.title %}
-  <meta name="og:title" content="{{ page.title }}">
+  <meta name="og:title" content="{{ page.title }} - {{ site.title }}">
 {% else %}
   <meta name="og:title" content="{{ site.title }}">
 {% endif %}
