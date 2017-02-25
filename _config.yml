@@ -42,6 +42,9 @@ author:
   twitter: freeingfrancis
 
 
+# Stylesheets
+sass:
+  style: compressed
 
 
 
