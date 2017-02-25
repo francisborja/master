@@ -44,7 +44,8 @@ author:
 
 # Stylesheets
 sass:
-  style: compressed
+  style: expanded
+  deploy_style: compressed
 
 
 
@@ -77,6 +78,7 @@ gems:
 - jekyll-readme-index
 - jekyll-redirect-from
 - jekyll-relative-links
+- jekyll-sass
 - jekyll-sass-converter
 - jekyll-seo-tag
 - jekyll-sitemap
