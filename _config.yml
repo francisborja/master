@@ -46,7 +46,7 @@ author:
 sass:
   style: expanded
   deploy_style: compressed
-  sass_dir: _sass
+  sass_dir: css
 
 
 
