@@ -2,6 +2,8 @@
 #
 ---
 
+@import brand
+
 body
   font-size: 100% !important
   size: 100% !important
@@ -17,25 +19,25 @@ body
 
 a
   text-decoration: none
-  color: #2082ac
+  color: $link
   -webkit-transition: ease-in-out 0.3s
   &:hover
     text-decoration: none
-    color: #3d93b8
+    color: $linkhover
 
 h1
   font-size: 50px
   font-weight: 800
-  color: #555
-  font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif
+  color: $titlecolor
+  font-family: $sans
   vertical-align: middle
   display: inline-block
 
 h2
   font-size: 30px
   font-weight: 100
-  color: #555
-  font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif
+  color: $title
+  font-family: $sans
   vertical-align: middle
   display: inline-block
   margin-top: -20px
@@ -43,8 +45,8 @@ h2
 h3
   font-size: 14px
   font-weight: normal
-  color: #555
-  font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif
+  color: $bodycolor
+  font-family: $sans
   vertical-align: middle
   display: inline-block
   line-height: 150%
@@ -52,17 +54,17 @@ h3
 h4
   font-size: 20px
   font-weight: 700
-  color: #555
-  font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif
+  color: $titlecolor
+  font-family: $sans
   vertical-align: middle
   display: inline-block
   margin: 50px 0 10px 0
 
 p
   font-size: 40px
-  color: #555
+  color: $bodycolor
   font-weight: 100
-  font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif
+  font-family: $sans
   line-height: 120%
   vertical-align: middle
   display: inline-block

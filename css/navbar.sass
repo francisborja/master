@@ -2,6 +2,8 @@
 #
 ---
 
+@import brand
+
 nav
   padding: 20px 0 15px 0
 
@@ -11,7 +13,7 @@ nav
     margin: 10px 0 0 30px
 
   ul.nav
-    font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif
+    font-family: $sans
     list-style: none
     font-weight: 700
     text-align: right
@@ -25,8 +27,8 @@ nav
       a.nav
         padding: 30px 20px 30px 20px
         margin: 0 -2px 0 -2px
-        color: #777
+        color: $lightgrey
         -webkit-transition: ease-in-out 0.3s
 
         &:hover
-          color: #2082ac
+          color: $link

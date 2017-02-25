@@ -2,6 +2,8 @@
 #
 ---
 
+@import brand
+
 body
   font-size: 100% !important
   size: 100% !important
@@ -19,36 +21,36 @@ body
 
 a
   text-decoration: none
-  color: #2082ac
+  color: $link
   -webkit-transition: ease-in-out 0.3s
 
   &:hover
     text-decoration: none
-    color: #3d93b8
+    color: $linkhover
 
 .container
   h1
     font-size: 40px
     font-weight: 100
-    color: #555
-    font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif
+    color: $titlecolor
+    font-family: $sans
 
   h2
     font-size: 20px
     font-weight: 900
-    color: #555
-    font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif
+    color: $titlecolor
+    font-family: $sans
 
   h3
     font-size: 30px
     font-weight: 900
-    color: #555
-    font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif
+    color: $titlecolor
+    font-family: $sans
 
 p, ul.license-list li.license-list
   font-size: 14px
-  color: #555
-  font-family: -apple-system, BlinkMacSystemFont, "Roboto", sans-serif !important
+  color: $bodycolor
+  font-family: $sans
   font-weight: normal
   line-height: 160%
 
@@ -62,22 +64,21 @@ p, ul.license-list li.license-list
 
 .pagination
   text-align: center
-  color: #555
   margin-top: 150px
 
 #arrow-next
-  fill: #aaa
+  fill: $fadegrey
   -webkit-transition: ease-in-out 0.2s
 
   #next:hover
-    fill: #333
+    fill: $darkgrey
 
 #arrow-previous
-  fill: #aaa
+  fill: $fadegrey
   -webkit-transition: ease-in-out 0.2s
 
   #previous:hover
-    fill: #333
+    fill: $darkgrey
 
 img
   max-width: 100%
