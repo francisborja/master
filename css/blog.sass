@@ -21,35 +21,35 @@ body
 
 a
   text-decoration: none
-  color: #2082ac
+  color: $link
   -webkit-transition: ease-in-out 0.3s
 
   &:hover
     text-decoration: none
-    color: #3d93b8
+    color: $linkhover
 
 h1
   font-size: 23px
   font-weight: 700
-  color: #555
+  color: $titlecolor
   font-family: $sans
 
   a
-    color: #555
+    color: $titlecolor
     -webkit-transition: ease-in-out 0.3s
 
     &:hover
-      color: #333
+      color: $titlecolorhover
 
 h2
   font-size: 40px
   font-weight: 100
-  color: #555
+  color: $titlecolor
   font-family: $sans
 
 h3
   font-size: 14px
-  color: #999
+  color: $introtextcolor
   font-style: italic
   font-weight: 100
   font-family: $sans
@@ -60,7 +60,7 @@ h3
   font-size: 11px
   text-transform: uppercase
   letter-spacing: 0.5
-  color: #AAA
+  color: $datecolor
   font-family: $sans
   margin-top: -10px
 
@@ -74,7 +74,7 @@ hr
 
 p
   font-size: 16px
-  color: #555
+  color: $bodycolor
   font-family: $serif
   font-weight: normal
   line-height: 160%
@@ -89,20 +89,21 @@ p
 
 .pagination
   text-align: center
-  color: #555
   margin-top: 150px
 
 #arrow-next
-  fill: #aaa
+  fill: $fadegrey
   -webkit-transition: ease-in-out 0.2s
+
   #next:hover
-    fill: #333
+    fill: $darkgrey
 
 #arrow-previous
-  fill: #aaa
+  fill: $fadegrey
   -webkit-transition: ease-in-out 0.2s
+
   #previous:hover
-    fill: #333
+    fill: $darkgrey
 
 img
   max-width: 100%

@@ -6,16 +6,16 @@ excerpt_separator: <!--excerpt-->
 paginate_path: "/blog/page-:num"
 include: ["_pages"]
 
-#Google
+# google analytics
 google_analytics: UA-84144727-2
 google_site_verification: iLcn0SOTj8DwWZ4p_P_h3J_lxE8i1ZikWIx4lthZuCY
 
-#SEO
+# seo
 title: Francis Borja
 description: Hello. My name is Francis and Francis means freedom.
 logo: /assets/logomark-color.png
 
-#Social
+# social
 social:
   links:
     - https://twitter.com/freeingfrancis
@@ -24,7 +24,7 @@ social:
 url: https://francisborja.com
 enforce_ssl: francisborja.com
 
-# Post Defaults
+# post defaults
 defaults:
   -
     scope:
@@ -34,7 +34,7 @@ defaults:
       layout: "post"
 
 
-# Twitter Cards
+# twitter cards
 twitter_username: freeingfrancis
 site_username: freeingfrancis
 creator_username: freeingfrancis
@@ -42,7 +42,7 @@ author:
   twitter: freeingfrancis
 
 
-# Stylesheets
+# sass
 sass:
   style: expanded
   deploy_style: compressed
