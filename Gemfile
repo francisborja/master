@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 gem 'github-pages', '123', group: :jekyll_plugins
 
-gem 'jekyll', '3.3.1'
+gem 'jekyll'
 gem 'activesupport', '4.2.7'
 gem 'github-pages-health-check', '1.3.0'
 gem 'html-pipeline', '2.5.0'
@@ -42,6 +42,6 @@ gem 'listen', '3.0.6'
 gem 'minima', '2.0.0'
 gem 'nokogiri', '1.6.8.1'
 gem 'rouge', '1.11.1'
-gem 'ruby', '2.3.3'
+gem 'ruby'
 gem 'safe_yaml', '1.0.4'
 gem 'sass', '3.4.23'
