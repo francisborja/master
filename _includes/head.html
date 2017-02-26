@@ -65,28 +65,3 @@
   <meta name="og:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
 {% endif %}
 <meta property="og:image" content="{{ site.url }}/assets/header.png">
-
-
-<!--- Preload images --->
-
-<script>
-function preloader() {
-	if (document.getElementById) {
-		document.getElementById("preload-01").style.background = "url(/assets/img/me1.jpg) no-repeat -9999px -9999px";
-	}
-}
-function addLoadEvent(func) {
-	var oldonload = window.onload;
-	if (typeof window.onload != 'function') {
-		window.onload = func;
-	} else {
-		window.onload = function() {
-			if (oldonload) {
-				oldonload();
-			}
-			func();
-		}
-	}
-}
-addLoadEvent(preloader);
-</script>
