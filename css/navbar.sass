@@ -5,22 +5,32 @@
 @import brand
 
 nav
-  padding: 20px 0 15px 0
+  padding: 5px 0 35px 0
+  border-bottom: .5px solid #ddd
+  background-color: rgba(255,255,255,.4)
+  position: fixed
+  width: 100%
+  top: 0
+  height: 20px
+
+  $filter: blur(20px) saturate(200%)
+  backdrop-filter: $filter
+  -webkit-backdrop-filter: $filter
 
   #navbar-logo
     vertical-align: middle
     text-align: left
-    margin: 10px 0 0 30px
+    margin: 7px 0 0 50px
 
     svg .base
       fill: $basecolor
-      
+
   ul.nav
     font-family: $sans
     list-style: none
     font-weight: 700
     text-align: right
-    margin: -40px 50px 0 0
+    margin: -30px 50px 0 0
 
     li.nav
       display: inline

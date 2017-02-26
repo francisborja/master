@@ -4,17 +4,29 @@
 
 @import brand
 
+html
+  height: 100%
+
 body
   font-size: 100% !important
   size: 100% !important
   width: 100% !important
   padding: 0
   margin: 0 auto
+  height: 100%
+  background-color: $pagecolor
 
 .container
-  float: center
   width: 500px
-  margin: auto
+  margin: 0 auto
+  margin-left: 300px
+  min-height: 100%
+  margin-bottom: -60px
+
+  &::after
+    content: ""
+    display: block
+    height: 60px
 
 .post-container
   margin: 200px 30px 200px 30px
