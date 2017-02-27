@@ -4,6 +4,8 @@ title: Blog
 description: This blog is a repository for all the voices in my head. I hope you like their company, too.
 ---
 
+{% include profile.html %}
+
 {% for post in paginator.posts %}
     <div class="post-container">
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
