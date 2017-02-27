@@ -5,10 +5,10 @@
 @import brand
 
 .card1
-  border: 1px solid #dadada
+  border: 0.5px solid #ddd
   border-radius: 3px
   float: right
-  margin-right: -110%
+  margin-right: -100%
   background-color: white
 
   width: 290px
@@ -38,29 +38,18 @@
       margin: auto
       margin-top: 15px
 
-//--------------------------------------
+//------------------------------
 
 .card2
-  border: 1px solid #dadada
-  border-radius: 3px
-  float: right
-  margin-right: -110%
-  margin-top: 600px       //distance between top card
-  background-color: white
-
-  width: 290px
-  height: relative
-  text-align: center
-
-  z-index: 0
-  overflow: hidden
+  @extend .card1
+  margin-top: 600px  //distance between top card
 
   .card-head
     $valign: 35px
     height: $valign
     line-height: $valign
     width: 100%
-    background-color: #ddd
+    background-color: #eee
     font-size: 11px
     color: $fadegrey
     font-family: $sans
@@ -69,18 +58,3 @@
     vertical-align: middle
     margin: auto
     text-transform: uppercase
-
-  div.profile-content
-    padding: 10px 30px 30px 30px !important
-
-    p
-      font-size: 12.5px
-      color: $fadegrey
-      font-family: $sans
-      font-weight: normal
-      line-height: 160%
-      text-align: left
-      width: relative
-      float: center
-      margin: auto
-      margin-top: 15px
