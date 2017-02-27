@@ -4,57 +4,64 @@
 
 @import brand
 
-.card1
-  border: 0.5px solid #ddd
-  border-radius: 3px
-  float: right
-  margin-right: -100%
-  background-color: white
-
-  width: 290px
-  height: relative
+.sidebar
   text-align: center
+  float: right
+  right: 0
+  width: relative
+  margin-right: 15%
+  margin-left: 50px
+  margin-bottom: 50px
 
-  z-index: 0
-  overflow: hidden
+  .card1
+    border: 0.5px solid #ddd
+    border-radius: 3px
+    background-color: white
 
-  img
-    height: auto
-    width: auto
-    border-radius: 0 !important
+    width: 290px
+    height: relative
+    text-align: center
 
-  div.profile-content
-    padding: 10px 30px 30px 30px !important
+    z-index: 0
+    overflow: hidden
 
-    p
-      font-size: 12.5px
+    img
+      height: auto
+      width: auto
+      border-radius: 0 !important
+
+    div.profile-content
+      padding: 10px 30px 30px 30px !important
+
+      p
+        font-size: 12.5px
+        color: $fadegrey
+        font-family: $sans
+        font-weight: normal
+        line-height: 160%
+        text-align: left
+        width: relative
+        float: center
+        margin: auto
+        margin-top: 15px
+
+  //------------------------------
+
+  .card2
+    @extend .card1
+    margin-top: 30px  //distance between top card
+
+    .card-head
+      $valign: 35px
+      height: $valign
+      line-height: $valign
+      width: 100%
+      background-color: #eee
+      font-size: 11px
       color: $fadegrey
       font-family: $sans
-      font-weight: normal
-      line-height: 160%
-      text-align: left
-      width: relative
-      float: center
+      font-weight: 500
+      text-align: center
+      vertical-align: middle
       margin: auto
-      margin-top: 15px
-
-//------------------------------
-
-.card2
-  @extend .card1
-  margin-top: 600px  //distance between top card
-
-  .card-head
-    $valign: 35px
-    height: $valign
-    line-height: $valign
-    width: 100%
-    background-color: #eee
-    font-size: 11px
-    color: $fadegrey
-    font-family: $sans
-    font-weight: 500
-    text-align: center
-    vertical-align: middle
-    margin: auto
-    text-transform: uppercase
+      text-transform: uppercase
