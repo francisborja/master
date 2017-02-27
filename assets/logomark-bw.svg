@@ -1,0 +1,17 @@
+<svg width="35px" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <rect id="logomark-bw" x="0" y="0" width="1000" height="1000" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="1000" height="1000"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g>
+            <path d="M300,700l-300,0c0,0 0,212.903 0,280c0,5.304 2.107,10.391 5.858,14.142c3.751,3.751 8.838,5.858 14.142,5.858c67.097,0 280,0 280,0l0,-300Z" style="fill:#555;"/>
+            <rect x="0" y="350" width="650" height="300" style="fill:#555;"/>
+            <path d="M1000,20c0,-5.304 -2.107,-10.391 -5.858,-14.142c-3.751,-3.751 -8.838,-5.858 -14.142,-5.858c-128.075,0 -831.925,0 -960,0c-5.304,0 -10.391,2.107 -14.142,5.858c-3.751,3.751 -5.858,8.838 -5.858,14.142c0,67.097 0,280 0,280l1000,0c0,0 0,-212.903 0,-280Z" style="fill:#555;"/>
+        </g>
+        <g>
+            <path d="M350,700l650,0c0,0 0,212.903 0,280c0,5.304 -2.107,10.391 -5.858,14.142c-3.751,3.751 -8.838,5.858 -14.142,5.858c-109.353,0 -630,0 -630,0l0,-300Z" style="fill:#c1c1c1;"/>
+            <rect x="700" y="350" width="300" height="300" style="fill:#c1c1c1;"/>
+        </g>
+    </g>
+</svg>

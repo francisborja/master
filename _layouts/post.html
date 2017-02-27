@@ -7,4 +7,20 @@ layout: blog
 <p class="date">{{ page.date | date: '%B %Y' }}</p>
 <br>
 <div>{{ content }}</div>
+
+
+
+<!---
+<div class="post-navigation">
+  {% if page.previous.url %}
+    Older Post
+    <a class="prev" href="{{ page.previous.url }}">&lsaquo; {{ page.previous.title }}</a>
+  {% endif %}
+  {% if page.next.url %}
+    Newer Post
+    <a class="next" href="{{ page.next.url }}">{{ page.next.title }} &rsaquo;</a>
+  {% endif %}
 </div>
+
+</div>
+--->
