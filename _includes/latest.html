@@ -1,0 +1,11 @@
+<h4 class="entry-title">
+{% if post.title %}
+    <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+{% endif %}
+</h4>
+<div class="entry-content">
+    <p>{{ post.content | strip_html | xml_escape | truncatewords: 37 }}</p>
+
+    <p class="continueread"><a href="{{ post.url }}">Continue Reading &rsaquo;</a></p>
+
+</div>

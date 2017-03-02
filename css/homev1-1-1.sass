@@ -23,33 +23,86 @@ body
 
 .container
   margin: auto
-  width: 400px!important
+  width: 600px!important
 
   // vertically align element
-  top: 50%
+  top: 55%
   left: 50%
   position: absolute
   transform: translate(-50%, -50%)
 
   h1
-    font-size: 60px
+    font-size: 25px
     color: white
-    font-weight: 700
+    font-weight: 900
     font-family: $sans
     display: block
-    text-align: left
-    line-height: 10px
+    text-align: center
+    line-height: 150%
 
-  h2
-    @extend h1
-    font-size: 45px
-    font-weight: 700
-    margin-bottom: 33px
+  hr
+    border-top: 0
+    border-bottom: 1px solid #eee
+    width: 30%
+    margin-top: 90px
 
-  p
-    @extend h1
-    font-size: 20px
+div.blog-index
+  margin-top: 100px
+  border: 1px solid #eee
+  border-radius: 3px
+  overflow: hidden!important
+
+  -webkit-transition: ease-in-out 0.3s
+  transition: ease-in-out 0.3s
+
+  background-color: rgba(255,255,255,0.2)
+  $filter: blur(10px) saturate(250%)
+  backdrop-filter: $filter
+  -webkit-backdrop-filter: $filter
+
+  .latest
+    background-color: #eee
+    font-family: $sans
+    text-transform: uppercase
+    font-size: 10px
+    letter-spacing: 1.5px
     font-weight: 700
+    color: black
+
+    text-align: center
+    top: 0
+    margin: auto
+    margin-top: -0.5px
+    width: 100%
+    height: 30px
+    line-height: 30px
+
+  .index-content
+    padding: 2px 25px 7px 25px
+
+
+    h4
+      font-size: 18px
+      font-weight: 900
+      color: white
+      font-family: $sans
+
+      a
+        color: white
+
+    div.entry-content
+      font-size: 14px
+      color: white
+      font-family: $serif
+      word-wrap: break-word
+      font-weight: normal
+      line-height: 160%
+
+      p.continueread
+        font-family: $sans
+        text-transform: uppercase
+        font-size: 9px
+        font-weight: 900
 
 a
   text-decoration: none

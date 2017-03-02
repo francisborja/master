@@ -2,6 +2,19 @@
 layout: homev1-1-1
 title: Francis Borja
 ---
-<h1>Hello.</h1>
-<h2>My name is Francis.</h2>
-<p>I&nbsp;like to write and design stuff.</p>
+
+<h1>My name is Francis. I&nbsp;like to write and design stuff.</h1>
+
+<hr />
+
+
+<div class="blog-index">
+  <div class="latest">Lastest Post</div>
+
+  {% assign post = site.posts.first %}
+
+  <div class="index-content">
+  {% include latest.html %}
+  </div>
+
+</div>
