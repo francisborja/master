@@ -24,6 +24,7 @@ body
   margin-left: 15%
   min-height: 100%
   margin-bottom: -50px
+  overflow: visible
 
   &::after
     content: ""
@@ -32,6 +33,7 @@ body
 
 .post-container
   margin: 200px 30px 200px 30px
+  overflow: visible
 
 a
   text-decoration: none
@@ -126,6 +128,27 @@ p
   #previous:hover #arrow-previous
     fill: $darkgrey
 
+.post-img-container
+  float: right
+  display: block
+  padding: 0 0 10px 25px
+  $imgheight: 250px
+  height: $imgheight
+  text-align: left
+  margin-right: -50px
+  width: relative
+  text-align: left
+  overflow: auto
+  position: static
+
+  img
+    height: $imgheight
+    border-radius: 3px
+    background-color: $fadegrey
+    float: left
+    display: inline
+    left: 0
+    position: relative
+
 img
   max-width: 100%
-  border-radius: 2px
