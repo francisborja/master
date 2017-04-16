@@ -37,7 +37,7 @@ So what do I do if I need to contact anyone? I didn't always rely on coffee shop
 
 (A separate blog post will be written about securing one's privacy online and in the real world.)
 
-I was also considering asking strangers to use their phone, but I did not possess the required social skills to proceed to this level of interaction. Maybe when I've transcended from the bonds of this world and permitted myself a higher form of social contact...
+I also considered asking strangers to use their phone, but I did not possess the required social skills to proceed to this level of interaction. Maybe when I've transcended from the bonds of this world and permitted myself a higher form of social contact...
 
 
 
