@@ -38,8 +38,6 @@ defaults:
 twitter_username: freeingfrancis
 site_username: freeingfrancis
 creator_username: freeingfrancis
-author:
-  twitter: freeingfrancis
 
 # sass
 sass:
