@@ -4,7 +4,7 @@ date: 2017-01-14
 description: Hi, Francis. Let me tell you a few things I would like you to know when they’ve invented time travel before I die.
 ---
 
-### Twitter had a [#WhatIWouldTellA15YearOldMe](https://twitter.com/hashtag/WhatIWouldTellA15YearOldMe){:target="_blank"} hashtag going on and it made me wonder what I would be able to tell a largely ignorant, mildly seasoned version of myself if I had more than 140 characters to give him.
+### Twitter had a [#WhatIWouldTellA15YearOldMe](https://twitter.com/hashtag/WhatIWouldTellA15YearOldMe){:target="blank"} hashtag going on and it made me wonder what I would be able to tell a largely ignorant, mildly seasoned version of myself if I had more than 140 characters to give him.
 
 <hr>
 Hi, Francis. Let me tell you a few things I would like you to know when they’ve invented time travel before I die. You never liked the winding introductions so let me give it to you straight up.
