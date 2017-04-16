@@ -22,6 +22,9 @@ body
   min-height: 100%
   padding-bottom: 5px
 
+  @media screen and (max-width: $phone)
+    width: 95%
+
 .post-container
   margin: 200px 30px 20px 30px
 
@@ -81,6 +84,9 @@ p, ul.license-list li.license-list
   $imgheight: 250px
   height: $imgheight
   text-align: right
+
+  @media screen and (max-width: $phone)
+    margin: 0
 
   img
     height: $imgheight

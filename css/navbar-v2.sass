@@ -18,6 +18,9 @@ nav
   // -webkit-backdrop-filter: $filter
   // transition: $filter
 
+  @media screen and (max-width: $phone)
+    height: 150px
+
   #navbar-logo
     float: left
     position: absolute
@@ -32,6 +35,9 @@ nav
     svg .base
       fill: $basecolor
 
+    @media screen and (max-width: $phone)
+      margin-left: 10%
+
   .nav-links
     right: 0
     padding-right: 50px
@@ -42,6 +48,8 @@ nav
     position: absolute
     transform: translateY(-50%)
 
+    @media screen and (max-width: $phone)
+      padding-right: 10%
 
     ul
       font-family: $sans
@@ -49,9 +57,16 @@ nav
       font-weight: 700
       font-size: 16px
 
+      @media screen and (max-width: $phone)
+        text-align: right
+        line-height: 200%
+
       li
         display: inline
         list-style-type: none
+
+        @media screen and (max-width: $phone)
+          display: block
 
         a
           margin-left: 30px

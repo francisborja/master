@@ -22,6 +22,12 @@ body
   width: 1000px
   margin: 0 auto
 
+  @media screen and (max-width: $tablet)
+    width: 700px
+
+  @media screen and (max-width: $phone)
+    width: 95%
+
 .container
   width: 550px
   margin: 0 auto
@@ -29,6 +35,9 @@ body
   min-height: 100%
   margin-bottom: -50px
   overflow: visible
+
+  @media screen and (max-width: $phone)
+    width: 100%
 
   &::after
     content: ""
@@ -155,6 +164,13 @@ h4
   overflow: auto
   position: static
 
+  @media screen and (max-width: $phone)
+    float: none
+    padding: 7px 0 10px 0
+    width: 100%
+    margin-right: 0
+    left: 0
+
   img
     width: $imgwidth
     border-radius: 4px 4px 0 0
@@ -164,6 +180,9 @@ h4
     left: 0
     position: relative
     margin-bottom: 15px
+
+    @media screen and (max-width: $phone)
+      width: 100%
 
   .img-caption
     text-align: left
