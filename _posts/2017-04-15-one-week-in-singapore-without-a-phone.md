@@ -28,7 +28,7 @@ People who know me know that I do not enjoy the act of initiating conversation. 
 
 <div class="post-img-container"><img src="/assets/posts/20170415-02.jpg" oncontextmenu="return false" /><div class="img-caption"><b><a href="http://marvelcinematicuniverse.wikia.com/wiki/Tahiti" target="blank">IKEA is a magical place.</a></b> As someone with a shared umbilical cord with clean, flat design, IKEA feels like you died a quiet, unnoticeable death and went straight to paradise.</div></div>
 
-And if you go to a country without ever talking to locals, it must be put into question why you traveled at all. Sure, the sites are gorgeous, groceries are strange and exciting, and you find yourself in a blissfully new place. But what makes a country a country or a city a city or a town a town, is not its architecture but its people. Singaporeans are gentle folks, albeit they talk a tad too fast. And this is despite and in spite of breakneck economic growth.
+And if you go to a country without ever talking to locals, it must be put into question why you traveled at all. Sure, the sites are gorgeous, groceries are strange and exciting, and you find yourself in a blissfully new place. But what makes a country a country or a city a city or a town a town, is not its architecture but its people. Singaporeans are gentle folks, albeit they talk a tad too fast.
 
 
 #### Lesson Number Three: Being Phone-less In a High-Tech Country Opens You to a Smorgasbord of Options
