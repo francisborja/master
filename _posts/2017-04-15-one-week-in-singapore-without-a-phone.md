@@ -10,7 +10,7 @@ Now the big disappointment is I'm always prepared down to the last detail: I hav
 
 <!--excerpt-->
 
-What was it like to roam a highly industrialized city (state)—one of the most technologically advanced on the planet, if I may add—without a phone? A few disclaimers: I brought my laptop with me for work, I've been to Singapore before and I know how to read a map. The last bit is of course the whole point of this survival lesson: do yourself a huge favor and teach yourself how to read a basic paper map.
+What was it like to roam a highly industrialized city (state)—one of the most technologically advanced on the planet, if I may add—without a phone? A few disclaimers: I brought my laptop with me for work, I've been to Singapore before and I know how to read a map. The last bit is of course the whole point of this survival lesson: do yourself a huge favor and teach yourself how to read basic directions.
 
 
 #### Lesson Number One for When You are in a Foreign Country Without Mobile Access: Read the Signs
