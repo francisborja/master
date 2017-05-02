@@ -4,13 +4,13 @@ date: 2017-04-15
 description: What was it like to roam one of the most technologically advanced cities on the planet without a phone?
 ---
 
-Coincidence, magical twist of fate, life lesson, the angry Hand of God—whatever your personal belief system tells you, my phone died right *exactly* when I landed in Changi Airport.
+Coincidence, magical twist of fate, life lesson, the angry Hand of God—whatever your personal belief system tells you, my phone died right *exactly* when I landed at Changi Airport.
 
-Now the big disappointment is I'm always prepared down to the last detail: I have my entire itinerary on my phone, an offline Google map of Singapore, the train system app, instant camera access, the whole shebang. But what the Fates, in their wretched conniving, failed to remember is that I survived the '90s all the way to Steve Jobs' death without ever needing the complete convenience of the iPhone. I swore my life to unforeseen circumstances and no incorporeal being was about halt my trip from the get-go (Cebu Pacific pun partially intended).
+Now the big disappointment is I'm always prepared down to the last detail: I have my entire itinerary on my phone, an offline Google map of Singapore, the train system app, instant camera access, the whole shebang. But what the Fates, in their wretched conniving, failed to remember is that I survived the '90s all the way to Steve Jobs' death without ever needing the complete convenience of the iPhone. I swore my life to unforeseen circumstances and no incorporeal being was about to halt my trip from the get-go (Cebu Pacific pun partially intended).
 
 <!--excerpt-->
 
-What was it like to roam a highly industrialized city (state)—one of the most technologically advanced on the planet, if I may add—without a phone? A few disclaimers: I brought my laptop with me for work, I've been to Singapore before and I know how to read a map. The last bit is of course the whole point of this survival lesson: do yourself a huge favor and teach yourself how to read basic directions.
+What was it like to roam around in a highly industrialized city (state)—one of the most technologically advanced on the planet—without a phone? A few disclaimers: I brought my laptop with me for work, I've been to Singapore before and I know how to read a map. The last bit is of course the whole point of this survival lesson: do yourself a huge favor and teach yourself how to read basic directions.
 
 
 #### Lesson Number One for When You are in a Foreign Country Without Mobile Access: Read the Signs
