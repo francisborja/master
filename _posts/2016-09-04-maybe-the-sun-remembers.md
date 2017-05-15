@@ -3,7 +3,7 @@ title: Maybe the Sun Remembers
 date: 2016-09-04
 ---
 
-What if we never dream of love lost or love hoped for and never felt pain and were never reminded, as the first rays of sunlight emerge from under the skyline? What if we never wake up wondering and hoping and losing all over again when the sun plunges deep into the ocean?
+What if we never dream of love lost or love hoped for and never feel pain and were never reminded, as the first rays of sunlight emerge from under the skyline? What if we never wake up wondering and hoping and losing all over again when the sun plunges deep into the ocean?
 
 But the sun never complains about rising and setting, nor does it whine about the ferocity of noon and the darkness of the night. It rises and falls, but never falters, never weakened or repressed. It only rages like the ball of furious energy it was born, out of nothing, to be.
 
