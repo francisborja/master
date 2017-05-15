@@ -87,17 +87,15 @@ p, ul.license-list li.license-list
 
   @media screen and (max-width: $phone)
     margin: 0
-    $phoneimageheight: 150px
-    height: $phoneimageheight
-
-      img
-        @media screen and (max-width: $phone)
-          height: $phoneimageheight
+    height: 150px
 
   img
     height: $imgheight
     border-radius: 5px
     background-color: $fadegrey
+
+    @media screen and (max-width: $phone)
+      height: 150px
 
 div.profile-content
   border-top: 1px solid #ddd
