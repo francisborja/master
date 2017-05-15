@@ -1,5 +1,5 @@
 ---
-title: One Day with Government
+title: One Day With Government
 date: 2014-12-12
 ---
 

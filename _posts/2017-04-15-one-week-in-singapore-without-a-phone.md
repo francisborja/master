@@ -13,7 +13,7 @@ Now the big disappointment is I'm always prepared down to the last detail: I hav
 What was it like to roam around in a highly industrialized city (state)—one of the most technologically advanced on the planet—without a phone? A few disclaimers: I brought my laptop with me for work, I've been to Singapore before and I know how to read a map. The last bit is of course the whole point of this survival lesson: do yourself a huge favor and teach yourself how to read basic directions.
 
 
-#### Lesson Number One for When You are in a Foreign Country Without Mobile Access: Read the Signs
+#### Lesson Number One for When You Are in a Foreign Country Without Mobile Access: Read the Signs
 
 <div class="post-img-container"><img src="/assets/posts/20170415-01.jpg" oncontextmenu="return false" /><div class="img-caption"><b>Lost in Bugis.</b> Singapore's standard of living is dizzyingly expensive, especially for someone from a developing country. The Bugis area is a welcome break when you feel you've no money to get back home.</div></div>
 
@@ -22,7 +22,7 @@ Signs are like fireflies in a dark forest. They will lead you to your destinatio
 The great thing about Singapore is they have an overabundance of signs everywhere you look (although it must be said that no place can ever have enough signs for the lost). But what's important here is getting a good grip on directional relativity. Some people still confuse the fundamentals of left and right, and that's how people fall into hollow pits.
 
 
-#### Lesson Number Two: Talk to Locals for They Know Better than Google Maps
+#### Lesson Number Two: Talk to Locals for They Know Better Than Google Maps
 
 People who know me know that I do not enjoy the act of initiating conversation. But when in a foreign place (in or out of the country), no one can help you more accurately than well-meaning locals. Emphasis on well-meaning. (On a related side note, Singapore has a crime rate so low, you can [leave your stuff in a coffee shop unattended](https://twitter.com/FreeingFrancis/status/850278537445625859){:target="blank"} without worrying about theft. Although authorities still warn that "low crime doesn't mean no crime," so don't do what I did without calculating the risk.)
 
@@ -31,7 +31,7 @@ People who know me know that I do not enjoy the act of initiating conversation. 
 And if you go to a country without ever talking to locals, it must be put into question why you traveled at all. Sure, the sites are gorgeous, groceries are strange and exciting, and you find yourself in a blissfully new place. But what makes a country a country or a city a city or a town a town, is not its architecture but its people. Singaporeans are gentle folks, albeit they talk a tad too fast.
 
 
-#### Lesson Number Three: Being Phone-less In a High-Tech Country Opens You to a Smorgasbord of Options
+#### Lesson Number Three: Being Phone-less in a High-Tech Country Opens You to a Smorgasbord of Options
 
 So what do I do if I need to contact anyone? I didn't always rely on coffee shops with free internet as I was always on the go and lazily sipping coffee is reserved for when I am back home where I have oversaturated myself for the past two decades. So I walk into one of millions (?) of Apple stores in the city to send an email, making sure to obsess myself with completely and irrevocably deleting traces of my use.
 
