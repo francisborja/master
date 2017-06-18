@@ -9,7 +9,7 @@ description: This blog is a repository for all the voices in my head. I hope you
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
     <p class="date">{{ post.date | date: '%B %Y' }}</p>
     <br>
-    <div id="post-body">
+    <div class="post-body">
         {{ post.excerpt }}
         {% if post.content contains site.excerpt_separator %}
           <span class="date"><a href="{{ post.url }}">Continue Reading <i class="fa fa-angle-right" aria-hidden="true"></i></a></span>
