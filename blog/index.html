@@ -12,7 +12,7 @@ description: This blog is a repository for all the voices in my head. I hope you
     <div class="post-body">
         {{ post.excerpt }}
         {% if post.content contains site.excerpt_separator %}
-          <span class="date"><a href="{{ post.url }}">Continue Reading <i class="fa fa-angle-right" aria-hidden="true"></i></a></span>
+          <span class="continue"><a href="{{ post.url }}">Continue Reading <i class="fa fa-angle-right" aria-hidden="true"></i></a></span>
         {% endif %}
 
     </div>
