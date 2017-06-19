@@ -15,7 +15,7 @@ What was it like to roam around in a highly industrialized city (state)—one of
 
 #### Lesson Number One for When You Are in a Foreign Country Without Mobile Access: Read the Signs
 
-<figure class="post-img-container"><img src="/assets/posts/20170415-01.jpg" oncontextmenu="return false" /><figcaption class="img-caption"><b>Lost in Bugis.</b> Singapore's standard of living is dizzyingly expensive, especially for someone from a developing country. The Bugis area is a welcome break when you feel you've no money to get back home.</figcaption></figure>
+<div class="post-img-container"><img src="/assets/posts/20170415-01.jpg" oncontextmenu="return false" /><div class="img-caption"><b>Lost in Bugis.</b> Singapore's standard of living is dizzyingly expensive, especially for someone from a developing country. The Bugis area is a welcome break when you feel you've no money to get back home.</div></div>
 
 Signs are like fireflies in a dark forest. They will lead you to your destination or into a deep, empty ditch, where your body will only be found nine months later by someone who will also fall into said ditch. So read signs carefully.
 
@@ -26,7 +26,7 @@ The great thing about Singapore is they have an overabundance of signs everywher
 
 People who know me know that I do not enjoy the act of initiating conversation. But when in a foreign place (in or out of the country), no one can help you more accurately than well-meaning locals. Emphasis on well-meaning. (On a related side note, Singapore has a crime rate so low, you can [leave your stuff in a coffee shop unattended](https://twitter.com/FreeingFrancis/status/850278537445625859){:target="blank"} without worrying about theft. Although authorities still warn that "low crime doesn't mean no crime," so don't do what I did without calculating the risk.)
 
-<figure class="post-img-container"><img src="/assets/posts/20170415-02.jpg" oncontextmenu="return false" /><figcaption class="img-caption"><b><a href="http://marvelcinematicuniverse.wikia.com/wiki/Tahiti" target="blank">IKEA is a magical place.</a></b> As someone with a shared umbilical cord with clean, flat design, IKEA feels like you died a quiet, unnoticeable death and went straight to paradise.</figcaption></figure>
+<div class="post-img-container"><img src="/assets/posts/20170415-02.jpg" oncontextmenu="return false" /><div class="img-caption"><b><a href="http://marvelcinematicuniverse.wikia.com/wiki/Tahiti" target="blank">IKEA is a magical place.</a></b> As someone with a shared umbilical cord with clean, flat design, IKEA feels like you died a quiet, unnoticeable death and went straight to paradise.</div></div>
 
 And if you go to a country without ever talking to locals, it must be put into question why you traveled at all. Sure, the sites are gorgeous, groceries are strange and exciting, and you find yourself in a blissfully new place. But what makes a country a country or a city a city or a town a town, is not its architecture but its people. Singaporeans are gentle folks, albeit they talk a tad too fast.
 

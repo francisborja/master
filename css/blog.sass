@@ -37,7 +37,7 @@ body
   overflow: visible
 
   @media screen and (max-width: $tablet)
-    width: 700px
+    width: 75
     margin: auto
 
   @media screen and (max-width: $phone)
@@ -51,9 +51,6 @@ body
 .post-container
   margin: 200px 30px 200px 30px
   overflow: visible
-
-  @media screen and (max-width: $phone)
-    margin: 150px 20px 150px 20px
 
 a
   text-decoration: none
@@ -128,12 +125,6 @@ p
   font-feature-settings: "kern"
   font-kerning: normal
 
-  @media screen and (max-width: $tablet)
-    font-size: 95%
-
-  @media screen and (max-width: $phone)
-    font-size: 90%
-
 /*FOR SUBHEADERS
 h4
   font-size: 17px
@@ -168,7 +159,7 @@ h4
 .post-img-container
   float: right
   display: block
-  padding: 7px 0 10px 10px
+  padding: 7px 0 10px 30px
   $imgwidth: 400px
   width: $imgwidth
   height: relative
@@ -178,12 +169,11 @@ h4
   position: static
 
   @media screen and (max-width: $tablet)
-    float: left
+    float: none
     padding: 7px 0 10px 0
     width: 100%
     margin-right: 0
     left: 0
-    transform: translateX(-40px)
 
   img
     width: $imgwidth
