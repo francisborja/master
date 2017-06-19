@@ -8,14 +8,22 @@ html
   height: 100%
 
 body
-  height: 100%
-  max-height: 100%
+  background-image: url(/assets/404.jpg)
+  background-repeat: no-repeat
+  background-position: center top
+  background-size: cover
+  background-attachment: relative
+  background-color: white
+
+  height: 100% !important
+  max-height: 100% !important
   top: 0
 
   size: 100% !important
   width: 100% !important
   padding: 0
   margin: 0
+  padding-bottom: 200px
 
 .container
   margin: auto
@@ -44,36 +52,46 @@ a
   h1
     font-size: 40px
     font-weight: 700
-    color: $titlecolor
+    color: white
     font-family: $sans
     vertical-align: middle
     display: inline-block
     margin-bottom: 30px
 
+    text-shadow: 0 0 15px #333
+
   h2
     font-size: 22px
     font-weight: 300
-    color: $titlecolor
+    color: white
     font-family: $sans
     vertical-align: middle
     display: inline-block
     margin-top: -20px
     line-height: 160%
 
-p, ul.license-list li.license-list
-  font-size: 14.25px
-  color: $bodycolor
-  font-family: $sans
-  font-weight: normal
-  line-height: 160%
+    text-shadow: 0 0 15px #333
 
-  /*FOR TYPOGRAPHIC SUPPORT
-  text-rendering: optimizeLegibility
-  font-variant-ligatures: contextual
-  -webkit-font-variant-ligatures: common-ligatures
-  -webkit-font-feature-settings: "kern"
-  font-feature-settings: "kern"
-  font-kerning: normal
+  p
+    font-size: 12px
+    font-weight: 500
+    color: #555
+    font-family: -apple-system, BlinkMacSystemFont, 'Open Sans', sans-serif
+    display: block
+    color: #666
+    text-align: left
+    line-height: 160%
+
+    margin-top: 40px
+
+  a
+    padding: 10px 15px 10px 15px
+    background-color: white
+    border-radius: 50px
+    width: relative
+
+    &:hover
+      box-shadow: 0 0 15px #333
 
 .pagination
   text-align: center
@@ -111,3 +129,7 @@ div.profile-content
 
     &:hover
       color: $link
+
+div.home-gap
+  font-size: 30px
+  opacity: 0
