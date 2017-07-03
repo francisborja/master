@@ -1,10 +1,10 @@
 <h4 class="entry-title">
 {% if post.title %}
-    <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+    {{ post.title }}
 {% endif %}
 </h4>
 <div class="entry-content">
-    <p>{{ post.content | strip_html | xml_escape | truncatewords: 29 }}</p>
+    <p class="excerpt">{{ post.content | strip_html | xml_escape | truncatewords: 29 }}</p>
 
     <p class="continueread"><a href="{{ post.url }}">Continue Reading <i class="fa fa-angle-right" aria-hidden="true"></i></a></p>
 

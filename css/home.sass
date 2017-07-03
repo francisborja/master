@@ -102,39 +102,46 @@ div.blog-index
   .index-content
     padding: 5px 30px 10px 30px
 
-
     h4
       font-size: 18px
       font-weight: 700
       font-family: $sans
-
-      a
-        color: $midgrey
+      color: $midgrey
 
     div.entry-content
-      font-size: 15px
-      color: $midgrey
-      font-family: $serif
-      word-wrap: break-word
-      font-weight: normal
-      line-height: 160%
+      margin-top: -10px
+
+      p.excerpt
+        font-size: 14px
+        font-weight: 300
+        color: #666
+        font-family: $sans
+        word-wrap: break-word
+        font-weight: normal
+        line-height: 160%
 
       p.continueread
         font-family: $sans
         text-transform: uppercase
         font-size: 9.5px
         font-weight: 600
-        letter-spacing: 0.5px
+        letter-spacing: 0.2px
 
-a
-  text-decoration: none
-  color: $link
-  -webkit-transition: ease-in-out 0.3s
-  transition: ease-in-out 0.3s
+        margin: 30px 0 25px 0
 
-  &:hover
+  a
     text-decoration: none
-    color: $linkhover
+    color: $link
+    -webkit-transition: ease-in-out 0.3s
+    transition: ease-in-out 0.3s
+
+    padding: 8px 13px 8px 13px
+    background-color: white
+    border-radius: 50px
+    width: relative
+
+    &:hover
+      box-shadow: 0 0 15px #bbb
 
 div.home-gap
   font-size: 20px
