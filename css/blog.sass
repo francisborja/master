@@ -110,9 +110,22 @@ h3
   text-transform: uppercase
   color: $detailcolor
   font-family: $sans
-  margin-top: -10px
   letter-spacing: 0.2px
   font-weight: 600
+
+  padding: 8px 13px 8px 13px
+  background-color: #f0f0f0
+  border-radius: 50px
+  width: relative
+
+  -webkit-transition: ease-in-out 0.3s
+  transition: ease-in-out 0.3s
+
+  &:hover
+    background-color: $link
+
+    a
+      color: white
 
 hr
   background-color: #e5e5e5
@@ -163,7 +176,7 @@ h4
     transition: ease-in-out 0.3s
 
   #next:hover #arrow-next
-    fill: $darkgrey
+    fill: $link
 
   #arrow-previous
     fill: $fadegrey
@@ -171,7 +184,7 @@ h4
     transition: ease-in-out 0.3s
 
   #previous:hover #arrow-previous
-    fill: $darkgrey
+    fill: $link
 
 .post-img-container
   float: right
