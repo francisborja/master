@@ -24,7 +24,7 @@ The great thing about Singapore is they have an overabundance of signs everywher
 
 #### Lesson Number Two: Talk to Locals for They Know Better Than Google Maps
 
-People who know me know that I do not enjoy the act of initiating conversation. But when in a foreign place (in or out of the country), no one can help you more accurately than well-meaning locals. Emphasis on well-meaning. (On a related side note, Singapore has a crime rate so low, you can [leave your stuff in a coffee shop unattended](https://twitter.com/FreeingFrancis/status/850278537445625859){:target="blank"} without worrying about theft. Although authorities still warn that "low crime doesn't mean no crime," so don't do what I did without calculating the risk.)
+People who know me know that I do not enjoy the act of initiating conversation. But when in a foreign place (in or out of the country), no one can help you more accurately than well-meaning locals. Emphasis on well-meaning. (On a related side note, Singapore has a crime rate so low, you can leave your stuff in a coffee shop unattended without worrying about theft. Although authorities still warn that "low crime doesn't mean no crime.")
 
 <div class="post-img-container"><img src="/assets/posts/20170415-02.jpg" oncontextmenu="return false" /><div class="img-caption"><b><a href="http://marvelcinematicuniverse.wikia.com/wiki/Tahiti" target="blank">IKEA is a magical place.</a></b> As someone with a shared umbilical cord with clean, flat design, IKEA feels like you died a quiet, unnoticeable death and went straight to paradise.</div></div>
 
