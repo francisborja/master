@@ -5,7 +5,7 @@ date: 2015-05-26
 
 Dreams are fragments of our imaginations. They are products of our desires, fears, and ambitions, hidden away into our subconscious and only manifesting during sleep, when we reach into the deep pockets of our memories. So it’s practically impossible to control our dreams, like how it’s impossible to control our desires. Dreams are children of the truth and show no shame in telling it.
 
-So when I dreamt of my desires, I knew it was going to be painful. I knew it wasn’t going to end well, even more so that I couldn’t control what my dreams showed me. I’ve always known my mind was more powerful than the body that holds it.
+So when I dreamt of my desires, I knew it was going to be painful. I knew it wasn’t going to end well, even more so that I couldn’t control what my dreams showed me. I’ve always known my mind is more powerful than the body that holds it.
 
 <!--excerpt-->
 
