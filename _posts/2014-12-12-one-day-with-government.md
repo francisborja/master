@@ -27,4 +27,4 @@ I do not know when, where, or how corruption began, or who started it, and I won
 
 What I am interested in is how we can eradicate corruption, one that’s deeply rooted into the system. I am interested in how we can chop down a tree to stop the roots from growing deeper into the soil.
 
-Or we could always shoot them all down. Whatever works.
+Or we could always just burn down the whole forest. Whatever works.
