@@ -4,3 +4,7 @@ _pages/staging.html
 _layouts/staging.html
 css/staging.sass
 assets/staging/
+
+_pages/sankey.html
+_layouts/sankey.html
+css/sankey.sass

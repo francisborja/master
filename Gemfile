@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'github-pages', '123', group: :jekyll_plugins
+gem 'github-pages', '198', group: :jekyll_plugins
 
 gem 'jekyll'
 gem 'activesupport'
@@ -40,9 +40,16 @@ gem 'kramdown'
 gem 'liquid'
 gem 'listen'
 gem 'minima'
-gem 'nokogiri', '>= 1.8.2'
+gem 'nokogiri', '1.8.5'
 gem 'rouge'
 gem 'ruby'
 gem 'safe_yaml'
 gem 'sass'
 gem 'sassc'
+gem 'guard'
+gem 'guard-livereload'
+gem 'guard-jekyll'
+
+group :development do
+  gem 'guard'
+end
