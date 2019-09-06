@@ -58,3 +58,9 @@ guard 'livereload' do
   watch(%r{app/helpers/.+\.rb})
   watch(%r{config/locales/.+\.yml})
 end
+
+ignore /_site/
+
+guard 'jekyll' do
+  watch /.*/
+end
