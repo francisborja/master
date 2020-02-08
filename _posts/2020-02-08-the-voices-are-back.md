@@ -6,7 +6,7 @@ description: I am here, again, because after years of silence, the voices in my 
 
 I've been writing about pain for most of my life. I've written about loving and losing and transitioning between. I've written about people who have come and gone, the ones who stay and eventually leave. I've stopped writing many years ago because, in retrospect, there was less pain to discuss, driven away by a delusional belief that it was never coming back.
 
-And so I am here, again, because after years of silence, the voices in my head have come back. And I'm afraid they will only get louder, the way the rain begins as patters and drops on the roof, but is the harbinger of thunder and lightning storms.
+And so I am here, again, because after years of silence, the voices in my head have returned. And I'm afraid they will only get louder, the way the rain begins as patters and drops on the roof, but is the harbinger of thunder and lightning storms.
 
 <!--excerpt-->
 
