@@ -4,7 +4,7 @@
 {% endif %}
 </h4>
 <div class="entry-content">
-    <p class="excerpt">{{ post.content | strip_html | xml_escape | truncatewords: 62 }}</p>
+    <p class="excerpt">{{ post.content | strip_html | xml_escape | truncatewords: 62, ".." }}</p>
 
     <p class="continueread"><a href="{{ post.url }}">Continue Reading <i class="fa fa-angle-right" aria-hidden="true"></i></a></p>
 

@@ -136,7 +136,7 @@ hr
   margin-top: 50px
 
 p
-  font-size: 16px
+  font-size: calc(16px + (18 - 16) * ((100vw - 300px) / (1600 - 300)))
   color: $bodycolor
   font-family: $serif
   word-wrap: break-word
@@ -152,7 +152,7 @@ p
   font-kerning: normal
 
   @media screen and (max-width: $phone)
-    font-size: 14px
+
 
 /*FOR SUBHEADERS
 h4
