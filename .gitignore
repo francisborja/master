@@ -1,5 +1,6 @@
 _site/
 .DS_Store
+
 _pages/staging.html
 _layouts/staging.html
 css/staging.sass
@@ -8,3 +9,7 @@ assets/staging/
 _pages/sankey.html
 _layouts/sankey.html
 css/sankey.sass
+
+_pages/email.html
+_layouts/email.html
+css/email.sass
