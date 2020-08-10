@@ -6,7 +6,7 @@ description: What was it like to roam one of the most technologically advanced c
 
 Coincidence, magical twist of fate, life lesson, the angry Hand of God—whatever your personal belief system tells you, my phone died right *exactly* when I landed at Changi Airport.
 
-Now the big disappointment is I'm always prepared down to the last detail: I have my entire itinerary on my phone, an offline Google map of Singapore, the train system app, instant camera access, the whole shebang. But what the Fates, in their wretched conniving, failed to remember is that I survived the '90s all the way to Steve Jobs' death without ever needing the complete convenience of the iPhone. I swore my life to unforeseen circumstances and no incorporeal being was about to halt my trip from the get-go (Cebu Pacific pun partially intended).
+Now the big disappointment is I had prepared down to the last detail: I had my entire itinerary on my phone, an offline Google map of Singapore, the train system app, instant camera access, the whole shebang. But what the Fates, in their wretched conniving, failed to remember is that I survived the 90s all the way to Steve Jobs' death without ever needing the complete convenience of the iPhone. I swore my life to unforeseen circumstances and no incorporeal being was about to halt my trip from the get-go (Cebu Pacific pun partially intended).
 
 <!--excerpt-->
 
