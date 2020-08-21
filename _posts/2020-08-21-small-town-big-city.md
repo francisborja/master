@@ -18,7 +18,7 @@ He had, for most of his life, felt limited. Too few options, too short distances
 
 He had dreamed of these buildings that shoot far into the clouds, much taller than all the small buildings in his small town stacked together. He knew that living in an urban jungle wouldn't solve all his problems but it solved one thing that was much too important for all the other things to be fixed: freedom.
 
-And ultimately, after so long, he moved to the big city, not because it was the big city he was after, but it was the small town that he had to leave. He arrived there with all of his inhibitions released, his future opening up like a massive crack in the sky. He breathed in just a little of this new air then he let everything out even the oxygen from his past. Catharsis.
+And ultimately, after so long, he moved to the big city, not because it was the big city he was after, but it was the small town that he had to leave. He arrived there with all of his inhibitions released, his future opening up like a massive crack in the sky. He breathed in just a little of this new air then he let everything out, including the oxygen from his past. Catharsis.
 
 Of course, now that his boy had become a man—or at least he thinks he is or is somewhere between ignorance and wisdom of what adulthood really means—these dreams about "more" had barely been fulfilled, restrained only by the fact that people who want more never get enough of it and continue to seek what they do not have. But he had his options and he had his freedom, which at the end of the day were enough for him to sleep peacefully and drown out his demons.
 
