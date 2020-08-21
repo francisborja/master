@@ -14,13 +14,13 @@ As a kid, this boy, like all the other boys who had been shielded by their paren
 
 Growing up, he had come to realize that he had not achieved this dream of "more" and that there was much too little to be had in a small town flung far away from the treacherous life in an urban sprawl. His story is naturally rooted in his environment, that over the years he had come to despise, much like everything he had grown too familiar with: the same narrow streets, the same short buildings, the same provincial people.
 
-He had, for most of his life, felt limited. Too few options, too short distances, too little ambition for a town that never really wanted more than what it already has. Too settled. Too submissive. Too resigned.
+He had, for most of his life, felt limited. Too few options, too short distances, too little ambition for a town that never really wanted more than what it already has—too settled, too submissive, too resigned.
 
 He had dreamed of these buildings that shoot far into the clouds, much taller than all the small buildings in his small town stacked together. He knew that living there wouldn't solve all his problems but it solved one thing that was much too important for all the other things to be fixed: freedom.
 
-And ultimately, after so long, he moved to the big city, not because it was the big city he was after, but it was the small town that he had to leave. He arrived there, all of his inhibitions released, his future opening up like a massive crack in the sky, and he breathed in just a little of this new air. Then he let everything out even the air from his past. Catharsis.
+And ultimately, after so long, he moved to the big city, not because it was the big city he was after, but it was the small town that he had to leave. He arrived there, all of his inhibitions released, his future opening up like a massive crack in the sky, and he breathed in just a little of this new air. Then he let everything out even the oxygen from his past. Catharsis.
 
-Of course, now that his boy had become a man—or at least he thinks he is or is somewhere between oblivion and realization of what adulthood really means—these dreams about "more" had barely been fulfilled, restrained only by the fact that people who want more never get enough of it and continue to seek what they do not have. But he had his options and he had his freedom, which at the end of the day were enough for him to sleep peacefully enough to drown out his demons.
+Of course, now that his boy had become a man—or at least he thinks he is or is somewhere between ignorance and wisdom of what adulthood really means—these dreams about "more" had barely been fulfilled, restrained only by the fact that people who want more never get enough of it and continue to seek what they do not have. But he had his options and he had his freedom, which at the end of the day were enough for him to sleep peacefully enough to drown out his demons.
 
 One day, the man—after a consistent resistance against it and despite every attempt to prevent the inevitable from happening—was back in the small town, south of the big metropolitan city. War flashbacks, panic attacks and an unforgiving storm of emotion.
 
