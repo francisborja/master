@@ -1,0 +1,29 @@
+---
+title: A Small Town South of the Big Metropolitan City
+date: 2020-08-21
+description: A story about a boy who moved to the big city, not because it was the big city he was after, but it was the small town that he had to leave.
+---
+
+Let me tell you a story about a young boy who grew up in a small town.
+
+For those of you who haven't been to a small town, imagine a place that's war-torn, reclusive and conservative. This is of course not entirely true of all small towns, like most loose, inaccurate generalizations about a place that people haven't even visited. But this boy, having been born and raised so far away from the big city, had felt that some undertones of these misconceptions happen to be true for some facets of his life.
+
+<!--excerpt-->
+
+As a kid, this boy, like all the other boys who had been shielded by their parents from the savage reality of adult life, had innocent dreams about becoming more than who he was back then. Catholic-raised, volunteerism-influenced and surrounded by the fantasy that all is good in the world and that he wouldn't be harmed unless he sought it.
+
+Growing up, he had come to realize that he had not achieved this dream of "more" and that there was much too little to be had in a small town flung far away from the treacherous life in an urban sprawl. His story is naturally rooted in his environment, that over the years he had come to despise, much like everything he had grown too familiar with: the same narrow streets, the same short buildings, the same provincial people.
+
+He had, for most of his life, felt limited. Too few options, too short distances, too little ambition for a town that never really wanted more than what it already has. Too settled. Too submissive. Too resigned.
+
+He had dreamed of these buildings that shoot far into the clouds, much taller than all the small buildings in his small town stacked together. He knew that living there wouldn't solve all his problems but it solved one thing that was much too important for all the other things to be fixed: freedom.
+
+And ultimately, after so long, he moved to the big city, not because it was the big city he was after, but it was the small town that he had to leave. He arrived there, all of his inhibitions released, his future opening up like a massive crack in the sky, and he breathed in just a little of this new air. Then he let everything out even the air from his past. Catharsis.
+
+Of course, now that his boy had become a man—or at least he thinks he is or is somewhere between oblivion and realization of what adulthood really means—these dreams about "more" had barely been fulfilled, restrained only by the fact that people who want more never get enough of it and continue to seek what they do not have. But he had his options and he had his freedom, which at the end of the day were enough for him to sleep peacefully enough to drown out his demons.
+
+One day, the man—after a consistent resistance against it and despite every attempt to prevent the inevitable from happening—was back in the small town, south of the big metropolitan city. War flashbacks, panic attacks and an unforgiving storm of emotion.
+
+What he felt as he stood there and breathed the air he used to breathe so many lifetimes ago was like being thrown back in his childhood prison. Small, finite, isolated. And all those years of growing up, running away and finding a sliver of freedom someplace else other than here, the boy who had grown into a man had become a boy once more and was suddenly afraid again to lose his self.
+
+Whatever reason he is here, he was willing and prepared to let everything go just to go back to the city. But more important, to leave everything behind in the small town where he had known all his life he was never meant to be.
