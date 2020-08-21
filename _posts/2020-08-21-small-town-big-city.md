@@ -26,4 +26,4 @@ One day, the man—after consistent resistance against it and despite every atte
 
 What he felt as he stood there and breathed the air he used to breathe so many lifetimes ago was like being shoved back in his childhood prison—small, isolated, finite. He was faced with war flashbacks, panic attacks and an unforgiving storm of emotion. And all those years of growing up, running away and finding a sliver of freedom someplace else other than here, the boy who had grown into a man had become a boy once more and was suddenly afraid again to lose his self.
 
-And so he decided, with final resolve, that for whatever reason he is here, he was determined—even if a little unprepared—to let everything go just to return to the big city. But more important, he was to leave everything behind in the small town where he had known all his life he was never meant to be in.
+And so he decided, with final resolve, that despite whatever reason he is here, he was determined—even if a little unprepared—to let everything go just to return to the big city. But more important, he was to leave everything behind in the small town where he had known all his life he was never meant to be in.
