@@ -12,7 +12,7 @@ And so I am here, again, because after years of silence, the voices in my head h
 
 Writing was a way for me to silence them. When I was a kid, I liked to read the dictionary, which I now believe was because I wanted words that helped me define what I felt. To be able to define an emotion, an experience, ensured that I could put them in their place, write them somewhere and tuck them away. This was the power of words: a definition wraps my pain, identifies it and categorizes it, so I can discuss it and dissect its meaning, find other words to help me understand it and know its intentions, and finally be able to write them down so it flows out of my body and onto something I can hide or release or burn.
 
-For many years that has worked because I kept writing. But for a while now I haven't and the voices have escaped their prison in the sky and now snap and crack like electric bolts of light shot in indiscriminate fire.
+For many years that has worked because I kept writing. But for a while now I haven't and the voices have escaped their prison in the sky and now snap and crack like electric bolts of light shooting in indiscriminate fire.
 
 Someone once asked me, just recently, if I was lonely. I lied and said no. I made a silly excuse about, for a long time, never wanting to be with anyone because I had always believed I did not need anyone to be complete. This excuse was partly true, because I had never really known what it is ever like to *be* complete. (Does anyone?)
 
