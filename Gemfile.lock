@@ -328,7 +328,7 @@ DEPENDENCIES
   liquid
   listen
   minima
-  nokogiri (= 1.10.8)
+  nokogiri
   rouge
   ruby
   safe_yaml
