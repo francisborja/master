@@ -6,10 +6,6 @@ excerpt_separator: <!--excerpt-->
 paginate_path: "/blog/page-:num"
 include: ["_pages"]
 
-# google analytics
-google_analytics: UA-84144727-2
-google_site_verification: iLcn0SOTj8DwWZ4p_P_h3J_lxE8i1ZikWIx4lthZuCY
-
 # seo
 title: Francis Borja
 description: Hello. My name is Francis and Francis means freedom.
