@@ -8,13 +8,13 @@ In 2013, I interned with this middle-aged couple who worked to bring back Filipi
 
 <!--excerpt-->
 
-When we arrived at their house, they pasta was just boiling, the sauce simmering, and by the time we sat down, they had just mixed both and served it on a shallow pan. The wife had just ordered her husband to get the forks ready as the table had not been set yet. She rolls her eyes with a smirk, looks at us and exasperatingly groans “men!” She looks at me and corrects herself: “but not all men.” She smiles with a motherly smile and serves the pasta. “Quick! Before it gets cold!” and while we help ourselves she continues, “pasta must be served warm.”
+When we arrived at their house, the pasta was just boiling, the sauce simmering, and by the time we sat down, they had just mixed both and served it on a shallow pan. The wife had just ordered her husband to get the forks ready as the table had not been set yet. She rolls her eyes with a smirk, looks at us and exasperatingly groans “men!” She looks at me and corrects herself: “but not all men.” She smiles with a motherly smile and serves the pasta. “Quick! Before it gets cold!” and while we help ourselves she continues, “pasta must be served warm.”
 
 I’ve learned to respect pasta since then. Cook pasta just before it becomes al dente—do not rinse—and toss it with the sauce. Toss, don’t stir. Pasta must be served warm.
 
 In 2020, in the middle of the pandemic, I was moved to Cotabato City. One important piece of information you need is that this place is devoid of options. So I dragged my pushcart around the grocery, looking for pasta, inspecting every aisle in case the staff had misplaced pasta with the toiletries. This is weeks after I had already started to become aware of the degradation of my mental health. I’ve been to this grocery store many times before but now I was here for an indeterminate amount of time. There was no end in sight. All I saw was being here, option-less, for the rest of my life. And so when I couldn’t find fusilli, my favorite pasta shape, I broke down in the middle of the aisle where the only pasta available was spaghetti.
 
-I was diagnosed with major depressive disorder several weeks after that, after I had left Cotabato City for my hometown in Cagayan de Oro, confused and anxious, but resolute that I was never to live in that kind of fear of uncertainty. I was placed on medication a few months later, when I returned to Manila by some fortunate twist of fate.
+I was diagnosed with major depressive disorder several weeks after that, after I had left Cotabato City for my hometown in Cagayan de Oro, confused and anxious, but resolute that I was never to live in that kind of fear of uncertainty. I was placed on medication a few months later when I returned to Manila by some fortunate twist of fate.
 
 A year later, having gone through mood swings and a rise and fall of depression, my diagnosis was changed to what felt to me was a more accurate representation of how my head operates: persistent depressive disorder.
 
