@@ -70,7 +70,7 @@ body
 
 div.blog-index
   margin-top: 50px
-  border-radius: 4px
+  border-radius: 15px
   overflow: hidden!important
 
   text-align: center
@@ -81,7 +81,7 @@ div.blog-index
   transition: ease-in-out 0.3s
 
   background-color: rgba(255,255,255,0.7)
-  $filter: blur(30px) saturate(300%)
+  $filter: blur(10px) saturate(300%)
   backdrop-filter: $filter
   -webkit-backdrop-filter: $filter
 
@@ -102,13 +102,14 @@ div.blog-index
     line-height: 37px
 
   .index-content
-    padding: 5px 30px 10px 30px
+    padding: 20px 50px 30px 50px
 
     h4
       font-size: 18px
       font-weight: 700
       font-family: $sans
       color: $midgrey
+      text-align: left
 
     div.entry-content
       margin-top: -10px
@@ -121,6 +122,7 @@ div.blog-index
         word-wrap: break-word
         font-weight: normal
         line-height: 160%
+        text-align: left
 
       p.continueread
         font-family: $sans
@@ -129,7 +131,7 @@ div.blog-index
         font-weight: 600
         letter-spacing: 0.2px
 
-        margin: 30px 0 25px 0
+        margin: 30px 0 5px 0
 
   a
     text-decoration: none
