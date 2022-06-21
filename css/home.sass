@@ -51,11 +51,37 @@ body
     @media screen and (max-width: $phone)
       font-size: 30px
 
+  h2
+    font-size: 20px
+    color: $lightgrey
+    font-weight: 300
+    font-family: $sans
+    display: block
+    text-align: center
+    line-height: 150%
+
+    @media screen and (max-width: $phone)
+      font-size: 20px
+
+  h3
+    font-size: 12px
+    color: $lightgrey
+    font-weight: 700
+    font-family: $sans
+    display: block
+    text-align: center
+    line-height: 150%
+    margin-top: 40px
+
+    @media screen and (max-width: $phone)
+      font-size: 12px
+
   hr
     border-top: 0
     border-bottom: 5px solid #eee
     width: 60px
     margin-top: 40px
+    margin-bottom: 40px
 
 
   p
@@ -67,6 +93,21 @@ body
     color: #666
     text-align: center
     line-height: 160%
+
+  img
+    height: 30px
+    margin-left: 10px
+    margin-right: 10px
+    opacity: 0.8
+
+    -webkit-transition: ease-in-out 0.3s
+    transition: ease-in-out 0.3s
+
+    &:hover
+      opacity: 1
+
+  a
+    text-decoration: none
 
 div.blog-index
   margin-top: 50px

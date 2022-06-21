@@ -4,18 +4,18 @@
 
 @import brand
 
-.sidebar
-  text-align: center
-  float: right
-  right: 0
-  width: relative
+.bottombar
+  display: block
+  margin: auto
   padding-bottom: 50px
-  z-index: 0
 
-  @media screen and (max-width: $tablet)
+  @media screen and (min-width: $tablet)
     display: none
 
   .card1
+    display: block
+    margin: auto
+
     border: 0.5px solid #c9c9c9
     border-radius: 10px
     background-color: white
@@ -29,7 +29,7 @@
       height: auto
       width: auto
       border-radius: 0 !important
-  
+
     div.profile-content
       padding: 10px 30px 30px 30px !important
 
