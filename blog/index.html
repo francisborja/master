@@ -15,7 +15,7 @@ description: This blog is a repository for all the voices in my head. I hope you
         {{ post.excerpt }}
         {% if post.content contains site.excerpt_separator %}
           <br />
-          <span class="continue"><a href="{{ post.url }}">Continue Reading <i class="fa fa-angle-right" aria-hidden="true"></i></a></span>
+          <span class="continue"><a href="{{ post.url }}">Continue Reading <i class="fa-solid fa-arrow-right-long"></i></a></span>
         {% endif %}
 
     </div>
@@ -29,10 +29,7 @@ description: This blog is a repository for all the voices in my head. I hope you
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
 
-      <svg id="previous" width="150px" height="150px" viewBox="95 46 323 314" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-          <rect stroke="none" fill="none" fill-rule="evenodd" x="95" y="46" width="323" height="314" rx="15"></rect>
-          <path d="M275.240115,202.42031 L275.254834,202.405592 L243.435029,170.585786 L231.585786,182.435029 L245.730578,196.579821 L251.985281,202.834524 L232,222.819805 L243.849242,234.669048 L275.669048,202.849242 L275.240115,202.42031 Z" id="arrow-previous" stroke="none" fill-rule="evenodd" transform="translate(253.627417, 202.627417) scale(-1, 1) translate(-253.627417, -202.627417) "></path>
-      </svg>
+      <i class="fa-solid fa-arrow-left fa-2xl"></i>
 
     </a>
   {% endif %}
@@ -40,10 +37,7 @@ description: This blog is a repository for all the voices in my head. I hope you
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">
 
-      <svg id="next" width="150px" height="150px" viewBox="95 46 323 314" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-          <rect stroke="none" fill="none" fill-rule="evenodd" x="95" y="46" width="323" height="314" rx="15"></rect>
-          <path d="M275.240115,202.42031 L275.254834,202.405592 L243.435029,170.585786 L231.585786,182.435029 L245.730578,196.579821 L251.985281,202.834524 L232,222.819805 L243.849242,234.669048 L275.669048,202.849242 L275.240115,202.42031 Z" id="arrow-next" stroke="none" fill-rule="evenodd"></path>
-      </svg>
+      <i class="fa-solid fa-arrow-right fa-2xl"></i>
 
     </a>
   {% endif %}
