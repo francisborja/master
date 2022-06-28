@@ -2,6 +2,7 @@
 title: One Week in Singapore Without a Phone
 date: 2017-04-15
 description: What was it like to roam one of the most technologically advanced cities on the planet without a phone?
+image: /assets/posts/20170415-01.jpg
 ---
 
 Coincidence, magical twist of fate, life lesson, the angry Hand of God—whatever your personal belief system tells you, my phone died right *exactly* when I landed at Changi Airport.
