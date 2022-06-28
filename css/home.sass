@@ -41,45 +41,45 @@ body
 
   h1
     font-size: 40px
-    color: $midgrey
+    color: $basecolor
+    font-weight: 700
+    font-family: $sans
+    display: block
+    text-align: center
+    line-height: 150%
+
+    @media screen and (max-width: $phone)
+      font-size: 35px
+
+  h2
+    font-size: 20px
+    color: white
     font-weight: 500
     font-family: $sans
     display: block
     text-align: center
     line-height: 150%
 
-    @media screen and (max-width: $phone)
-      font-size: 30px
-
-  h2
-    font-size: 20px
-    color: $lightgrey
-    font-weight: 300
-    font-family: $sans
-    display: block
-    text-align: center
-    line-height: 150%
-
-    @media screen and (max-width: $phone)
-      font-size: 20px
+    @media screen and (max-width: 1500px)
+      color: #444
 
   h3
     font-size: 12px
-    color: $lightgrey
+    color: white
     font-weight: 700
     font-family: $sans
     display: block
     text-align: center
-    line-height: 150%
     margin-top: 40px
+    margin-bottom: -25px
 
     @media screen and (max-width: $phone)
       font-size: 12px
 
   hr
     border-top: 0
-    border-bottom: 5px solid #eee
-    width: 60px
+    border-bottom: 7px solid $basecolor
+    width: 100px
     margin-top: 40px
     margin-bottom: 40px
 
@@ -93,6 +93,22 @@ body
     color: #666
     text-align: center
     line-height: 160%
+
+  p.social
+    font-size: 30px
+    letter-spacing: 10px
+    text-align: center
+    transform: translate(5px, 0px)
+
+    a
+      text-decoration: none
+      color: white
+
+      -webkit-transition: ease-in-out 0.3s
+      transition: ease-in-out 0.3s
+
+      &:hover
+        color: $fadegrey
 
   img
     height: 30px
