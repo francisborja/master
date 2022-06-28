@@ -57,4 +57,9 @@
 {% else %}
   <meta name="og:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
 {% endif %}
-<meta property="og:image" content="{{ site.url }}/assets/header-01.png">
+
+{% if post.image %}
+  <meta property="og:image" content="{{ post.image | site.url }}">
+{% else %}
+  <meta property="og:image" content="{{ site.url }}/assets/header-01.png">
+{% endif %}
