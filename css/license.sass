@@ -35,7 +35,7 @@ hr
   margin: 200px 30px 20px 30px
 
   @media screen and (max-width: $phone)
-    margin: 100px 20px 20px 20px
+    margin: 150px 20px 20px 20px
 
 a
   text-decoration: none
@@ -47,23 +47,35 @@ a
     text-decoration: none
     color: $linkhover
 
+a.pop
+  text-decoration: none
+  color: $link
+  font-family: $sans
+  font-size: 13.5px
+  -webkit-transition: ease-in-out 0.3s
+  transition: ease-in-out 0.3s
+
+  &:hover
+    text-decoration: none
+    color: $linkhover
+
 .container
   h1
     font-size: 30px
-    font-weight: 900
+    font-weight: 700
     color: $titlecolor
     font-family: $sans
 
   h2
     font-size: 20px
-    font-weight: 900
+    font-weight: 700
     color: $titlecolor
     font-family: $sans
 
 p, ul.license-list li.license-list
   font-size: 15px
   color: $bodycolor
-  font-family: $sans
+  font-family: $serif
   font-weight: normal
   line-height: 160%
 

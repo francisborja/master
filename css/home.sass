@@ -7,7 +7,7 @@
 body
   background-image: url(/assets/bg.jpg)
   background-repeat: no-repeat
-  background-position: center bottom
+  background-position: center top
   background-size: cover
   background-attachment: fixed
   background-color: white
@@ -43,30 +43,45 @@ body
     position: relative
     transform: translate(0%, 175px)
 
+  h5
+    font-size: 80px
+    color: $basecolor
+    font-weight: 900
+    font-family: $serif
+    display: block
+    text-align: left
+    margin-left: 10px
+    margin-top: 50px
+    margin-bottom: -30px
+
+    @media screen and (max-width: $phone)
+      margin-top: -50px
+
   h1
     font-size: 38px
     color: $basecolor
-    font-weight: 700
-    font-family: $sans
+    font-weight: 900
+    font-family: $serif
     display: block
-    text-align: center
+    text-align: left
     line-height: 150%
+    margin-left: 10px
 
     @media screen and (max-width: $phone)
       font-size: 170%
 
   h2
-    font-size: 20px
-    color: white
+    font-size: 20px!important
+    color: #444
     font-weight: 500
     font-family: $sans
     display: block
-    text-align: center
+    text-align: left
     line-height: 150%
+    margin-left: 10px
 
-    @media screen and (max-width: 1500px)
-      color: #444
-      font-size: 110%
+    @media screen and (max-width: $phone)
+      font-size: 110%!important
 
   h3
     font-size: 12px
@@ -84,12 +99,13 @@ body
   hr
     border-top: 0
     border-bottom: 7px solid $basecolor
-    width: 100px
-    margin-top: 40px
+    width: 150px
+    margin-top: -10px
     margin-bottom: 40px
+    margin-left: 10px
 
     @media screen and (max-width: $phone)
-      border-bottom: 5px solid $basecolor
+      margin-top: 5px
 
   p
     font-size: 15px
@@ -169,9 +185,9 @@ div.blog-index
     padding: 5px 25px 15px 30px
 
     h4
-      font-size: 18px
-      font-weight: 700
-      font-family: $sans
+      font-size: 20px
+      font-weight: 900
+      font-family: $serif
       color: $midgrey
       text-align: left
 
