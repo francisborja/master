@@ -22,7 +22,7 @@ body
   min-height: 100%
   padding-bottom: 5px
 
-  @media screen and (max-width: $phone)
+  @media screen and (max-width: 500px)
     width: 100%
 
 .header
@@ -49,9 +49,9 @@ body
 
   h1
     font-size: 50px
-    font-weight: 500
+    font-weight: 700
     color: white
-    font-family: $sans
+    font-family: $serif
     text-align: center
 
     // vertically align element
@@ -60,7 +60,7 @@ body
     position: relative
     transform: translate(-50%, -50%)
 
-    @media screen and (max-width: $phone)
+    @media screen and (max-width: 650px)
       width: 100%
       font-size: 30px
       top: 65%
@@ -121,13 +121,23 @@ p, ul.license-list li.license-list
   height: $imgheight
   text-align: right
 
-  @media screen and (max-width: $phone)
-    display: none
+  @media screen and (max-width: 800px)
+    display: inline
+    float: none
+    left: 0
+    margin-left: 0
+    text-align: left
+    padding: 0
 
   img
     height: $imgheight
     border-radius: 5px
     background-color: $fadegrey
+
+    @media screen and (max-width: 800px)
+      width: 100%
+      height: auto
+      margin: auto
 
 div.profile-content
   border-top: 1px solid #ddd
