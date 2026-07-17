@@ -1,6 +1,8 @@
 _site/
 .DS_Store
 
+.github/
+
 _pages/staging.html
 _layouts/staging.html
 css/staging.sass
