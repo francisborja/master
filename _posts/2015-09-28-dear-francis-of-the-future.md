@@ -3,7 +3,7 @@ title: Dear Francis of the Future
 date: 2015-09-28
 ---
 
-Dear Francis of the future, whatever year you choose or happen to read this again,
+Dear Francis of the future, whatever year you choose or happen to read this again...
 
 Today, September 28 of 2015, was a day you decided to not do anything. You don’t have a job, a real one anyway, one that society deemed the kind of job everyone should get, like a desolate cubicle where you smash away at the keys, filing paperwork for people you’ve never really known or met, where you wear your suit and tie even if no one is looking, much less cared. You used to work for one these kinds of workplaces albeit more alive and less funded and you could wear your plain t-shirts. It was a humanitarian organization and you told yourself for most of your life that you would work for these people so you could feel more connected to the world you so desperately craved to stay away from. After nine months of smashing away at the keys (that never seemed to complain about being smashed or reprimanded), you still feel empty and unaccomplished and for some reason, you feel less and less connected to other people and you’ve become more intoxicated with the concept of socializing with strangers.
 
