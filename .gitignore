@@ -2,6 +2,7 @@ _site/
 .DS_Store
 
 .github/
+.ruby-version
 
 _pages/staging.html
 _layouts/staging.html
