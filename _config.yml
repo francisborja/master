@@ -14,7 +14,6 @@ logo: /assets/logomark-color.png
 # social
 social:
   links:
-    - https://twitter.com/freeingfrancis
     - https://instagram.com/freeingfrancis
 
 url: https://francisborja.com
@@ -22,10 +21,7 @@ enforce_ssl: francisborja.com
 
 minima:
   social_links:
-    twitter: freeingfrancis
-    mastodon:
-      - username: francisborja
-        instance: home.social
+    instagram: freeingfrancis
 
 # post defaults
 defaults:
