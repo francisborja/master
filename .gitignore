@@ -4,6 +4,7 @@ _site/
 .github/
 
 .ruby-version
+Gemfile.before-github-pages-update
 
 _pages/staging.html
 _layouts/staging.html
