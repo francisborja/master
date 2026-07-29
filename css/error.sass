@@ -26,7 +26,7 @@ body
 
 .container
   margin: auto
-  width: 550px!important
+  width: min(34.375rem, 90vw)!important
 
   // vertically align element
   top: 50%
@@ -49,31 +49,31 @@ a
 
 .container
   h1
-    font-size: 40px
+    font-size: clamp(2rem, 3vw, 2.5rem)
     font-weight: 700
     color: white
     font-family: $sans
     vertical-align: middle
     display: inline-block
-    margin-top: 70px
-    margin-bottom: 30px
+    margin-top: 4.375rem
+    margin-bottom: 1.875rem
 
-    text-shadow: 0 0 15px #333
+    text-shadow: 0 0 0.9375rem #333
 
   h2
-    font-size: 22px
+    font-size: 1.375rem
     font-weight: 300
     color: white
     font-family: $sans
     vertical-align: middle
     display: inline-block
-    margin-top: -20px
+    margin-top: -1.25rem
     line-height: 160%
 
-    text-shadow: 0 0 15px #333
+    text-shadow: 0 0 0.9375rem #333
 
   p
-    font-size: 12px
+    font-size: 0.75rem
     font-weight: 500
     color: #555
     font-family: -apple-system, BlinkMacSystemFont, 'Open Sans', sans-serif
@@ -82,12 +82,12 @@ a
     text-align: left
     line-height: 160%
 
-    margin-top: 40px
+    margin-top: 2.5rem
 
   a
-    padding: 10px 15px 10px 15px
+    padding: 0.625rem 0.9375rem
     background-color: white
-    border-radius: 50px
+    border-radius: 3.125rem
     width: relative
 
     &:hover

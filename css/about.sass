@@ -17,12 +17,13 @@ body
   background-color: $pagecolor
 
 .container
-  width: 500px
+  width: 100%
+  max-width: 31.25rem
   margin: 0 auto
   min-height: 100%
-  padding-bottom: 5px
+  padding-bottom: 0.3125rem
 
-  @media screen and (max-width: 500px)
+  @media screen and (max-width: 31.25rem)
     width: 100%
 
 .header
@@ -33,7 +34,7 @@ body
   background-attachment: fixed
   background-color: white
 
-  height: 500px
+  height: 31.25rem
   max-height: 100% !important
   top: 0
 
@@ -48,7 +49,7 @@ body
     background-position: top
 
   h1
-    font-size: 50px
+    font-size: clamp(2.25rem, 4vw, 3.125rem)
     font-weight: 700
     color: white
     font-family: $serif
@@ -60,15 +61,15 @@ body
     position: relative
     transform: translate(-50%, -50%)
 
-    @media screen and (max-width: 650px)
+    @media screen and (max-width: 40.625rem)
       width: 100%
-      font-size: 30px
+      font-size: clamp(1.875rem, 5vw, 2.5rem)
       top: 65%
 
 .post-container
-  margin: 100px 30px 20px 30px
+  margin: 6.25rem 1.875rem 1.25rem 1.875rem
   @media screen and (max-width: $phone)
-    margin: 50px 20px 20px 20px
+    margin: 3.125rem 1.25rem 1.25rem 1.25rem
 
 a
   text-decoration: none
@@ -82,19 +83,19 @@ a
 
 .container
   h2
-    font-size: 20px
+    font-size: 1.25rem
     font-weight: 900
     color: $titlecolor
     font-family: $sans
 
   h3
-    font-size: 30px
+    font-size: 1.875rem
     font-weight: 700
     color: $titlecolor
     font-family: $sans
 
 p, ul.license-list li.license-list
-  font-size: 15px
+  font-size: 0.9375rem
   color: $bodycolor
   font-family: $sans
   font-weight: normal
@@ -110,18 +111,18 @@ p, ul.license-list li.license-list
 
 .pagination
   text-align: center
-  margin-top: 150px
+  margin-top: 9.375rem
 
 .img-container
   float: left
   display: block
-  margin-left: -150px
-  padding: 9px 25px 10px 0
-  $imgheight: 250px
+  margin-left: -9.375rem
+  padding: 0.5625rem 1.5625rem 0.625rem 0
+  $imgheight: 15.625rem
   height: $imgheight
   text-align: right
 
-  @media screen and (max-width: 800px)
+  @media screen and (max-width: 50rem)
     display: inline
     float: none
     left: 0
@@ -134,22 +135,22 @@ p, ul.license-list li.license-list
     border-radius: $borderradius
     background-color: $fadegrey
 
-    @media screen and (max-width: 800px)
+    @media screen and (max-width: 50rem)
       width: 100%
       height: auto
       margin: auto
 
 div.profile-content
-  border-top: 1px solid #ddd
-  margin-top: 100px!important
-  padding-top: 20px
-  padding-bottom: 20px
+  border-top: 0.0625rem solid #ddd
+  margin-top: 6.25rem!important
+  padding-top: 1.25rem
+  padding-bottom: 1.25rem
   font-family: $sans
   font-weight: 400
-  font-size: 12px
+  font-size: 0.75rem
   text-align: center
   color: $fadegrey
-  line-height: 10px
+  line-height: 0.625rem
   margin: auto
 
   a

@@ -20,11 +20,12 @@ body
   width: 100% !important
   padding: 0
   margin: 0
-  padding-bottom: 200px
+  padding-bottom: 12.5rem
 
 .container
   margin: auto
-  width: 500px!important
+  width: min(90vw, 31.25rem)!important
+  max-width: 31.25rem
 
   // vertically align element
   top: 55%
@@ -37,10 +38,10 @@ body
     top: 0!important
     left: 0
     position: relative
-    transform: translate(0%, 175px)
+    transform: translate(0%, 10.9375rem)
 
   h1
-    font-size: 30px
+    font-size: 1.875rem
     color: white
     font-weight: 700
     font-family: $sans
@@ -50,25 +51,25 @@ body
     z-index: 10
 
   h2
-    font-size: 25px
+    font-size: 1.5625rem
     color: white
     font-weight: 300
     font-family: $sans
     display: block
     text-align: left
-    margin-top: -8px
+    margin-top: -0.5rem
     line-height: 150%
     z-index: 10
 
   hr
     border-top: 0
-    border-bottom: 5px solid #eee
-    width: 60px
-    margin-top: 40px
+    border-bottom: 0.3125rem solid #eee
+    width: 3.75rem
+    margin-top: 2.5rem
 
 
   p
-    font-size: 12px
+    font-size: 0.75rem
     font-weight: 500
     color: #555
     font-family: -apple-system, BlinkMacSystemFont, 'Open Sans', sans-serif
@@ -77,12 +78,12 @@ body
     text-align: left
     line-height: 160%
 
-    margin-top: 40px
+    margin-top: 2.5rem
 
   a
-    padding: 10px 15px 10px 15px
+    padding: 0.625rem 0.9375rem
     background-color: white
-    border-radius: 50px
+    border-radius: 3.125rem
     width: relative
 
     &:hover
@@ -90,19 +91,19 @@ body
       color: white
 
 div.blog-index
-  margin-top: 50px
+  margin-top: 3.125rem
   border-radius: $borderradius
   overflow: hidden!important
 
   text-align: center
 
-  transform: translateX(2px)
+  transform: translateX(0.125rem)
 
   -webkit-transition: ease-in-out 0.3s
   transition: ease-in-out 0.3s
 
   background-color: rgba(255,255,255,0.7)
-  $filter: blur(10px) saturate(250%)
+  $filter: blur(0.625rem) saturate(250%)
   backdrop-filter: $filter
   -webkit-backdrop-filter: $filter
 
@@ -110,8 +111,8 @@ div.blog-index
     background-color: white
     font-family: $sans
     text-transform: uppercase
-    font-size: 10.5px
-    letter-spacing: 1.5px
+    font-size: 0.65625rem
+    letter-spacing: 0.09375rem
     font-weight: 700
     color: $lightgrey
 
@@ -119,15 +120,15 @@ div.blog-index
     top: 0
     margin: auto
     width: 100%
-    height: 37px
-    line-height: 37px
+    height: 2.3125rem
+    line-height: 2.3125rem
 
   .index-content
-    padding: 5px 30px 10px 30px
+    padding: 0.3125rem 1.875rem 0.625rem 1.875rem
 
 
     h4
-      font-size: 18px
+      font-size: 1.125rem
       font-weight: 700
       font-family: $sans
 
@@ -135,7 +136,7 @@ div.blog-index
         color: $midgrey
 
     div.entry-content
-      font-size: 15px
+      font-size: 0.9375rem
       color: $midgrey
       font-family: $serif
       word-wrap: break-word
@@ -145,9 +146,9 @@ div.blog-index
       p.continueread
         font-family: $sans
         text-transform: uppercase
-        font-size: 9.5px
+        font-size: 0.59375rem
         font-weight: 600
-        letter-spacing: 0.5px
+        letter-spacing: 0.03125rem
 
 a
   text-decoration: none
@@ -160,7 +161,7 @@ a
     color: $linkhover
 
 div.home-gap
-  font-size: 30px
+  font-size: 1.875rem
   opacity: 0
 
 img
