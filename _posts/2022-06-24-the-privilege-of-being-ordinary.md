@@ -1,7 +1,7 @@
 ---
 title: The Privilege of Being Ordinary
 date: 2022-06-24
-description: Embrace the privilege of an ordinary life where you’re free to love, without fear nor shame nor tortured hesitation.
+description: Embrace the privilege of an ordinary life where you’re free to love, without fear nor shame nor torturous hesitation.
 ---
 
 It took me more than a month after its release before I started watching Heartstopper because I knew it wasn’t going to be light entertainment. In fact, after finally seeing myself represented on screen, I hadn’t quite considered that when this piece of art imitated our complicated lives, it would closely resemble the simple tragedy of being born different.
@@ -20,4 +20,4 @@ The formation of our relationships is always paced slower, always a step behind,
 
 The perspective of straight people when they watch LGBT-themed shows comes from a place of profound privilege. To be able to turn off the TV when the show is done is like being able to shed off a costume when the performance is over, much like straight people can leave the show’s gay conflict behind and never have to experience it for themselves. An on/off switch for when to care about queer issues is a tremendous liberty, to never have to wear it wherever you go or hear it when you speak or go to sleep and dream it. We have no personal autonomy for when to interest ourselves in these affairs and when to be unaffected by them, for everywhere we are, there is a reminder that no matter the greatness of our success or the triumph of our labor, we go home at the end of the day and still have less in the eyes of the law and we are still not your equal.
 
-So as we celebrate Pride, embrace the privilege of an ordinary life where you’re free to love, without fear nor shame nor tortured hesitation. Fight for us, but more important, fight with us. Remember where your freedom comes from and think of the farthest place it can take you. All we hope is, someday, we can go there too.
+So as we celebrate Pride, embrace the privilege of an ordinary life where you’re free to love, without fear nor shame nor torturous hesitation. Fight for us, but more important, fight with us. Remember where your freedom comes from and think of the farthest place it can take you. All we hope is, someday, we can go there too.
