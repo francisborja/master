@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {% include head.html %}
+  <link rel="stylesheet" type="text/css" href="/css/portfolio.css">
+<title>{{ page.title }}</title>
+</head>
+
+<body>
+  <div class="container">
+  {{ content }}
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var links = document.querySelectorAll('.sidebar-link');
+      var workTiles = document.querySelectorAll('.work-tile');
+      var sections = document.querySelectorAll('.portfolio-section');
+      var toggleButton = document.querySelector('.burger-toggle');
+      var sidebar = document.querySelector('.portfolio-sidebar');
+      var portfolioMain = document.querySelector('.portfolio-main');
+
+      function loadImages(section) {
+        var images = Array.from(section.querySelectorAll('img[data-src]'));
+
+        return Promise.all(images.map(function(image) {
+          return new Promise(function(resolve) {
+            image.addEventListener('load', resolve, { once: true });
+            image.addEventListener('error', resolve, { once: true });
+            image.src = image.dataset.src + '?v=100';
+            /* REMOVED image.loading = 'lazy'; */
+            image.removeAttribute('data-src');
+
+            if (image.complete) {
+              resolve();
+            }
+          });
+        }));
+      }
+
+      function setIframeRatios(section) {
+        section.querySelectorAll('iframe').forEach(function(iframe) {
+          var iframeWidth = Number(iframe.getAttribute('width'));
+          var iframeHeight = Number(iframe.getAttribute('height'));
+
+          if (iframeWidth > 0 && iframeHeight > 0) {
+            iframe.style.aspectRatio = iframeWidth + ' / ' + iframeHeight;
+          }
+        });
+      }
+
+      function resizeIframes(section) {
+        section.querySelectorAll('iframe').forEach(function(iframe) {
+          var iframeWidth = Number(iframe.getAttribute('width'));
+          var iframeHeight = Number(iframe.getAttribute('height'));
+          var renderedWidth = iframe.getBoundingClientRect().width;
+
+          if (iframeWidth > 0 && iframeHeight > 0 && renderedWidth > 0) {
+            iframe.style.height = Math.round(renderedWidth * iframeHeight / iframeWidth) + 'px';
+          }
+        });
+      }
+
+      function layoutGrid(grid) {
+        var source = grid.querySelector('.column');
+        var items = grid._masonryItems;
+
+        if (!items && source) {
+          items = Array.from(source.children);
+          grid._masonryItems = items;
+        }
+
+        if (!items) {
+          return;
+        }
+
+        var isMobile = window.innerWidth <= 768;
+
+        if (grid._masonryIsMobile === isMobile) {
+          return;
+        }
+
+        grid.innerHTML = '';
+        grid._masonryIsMobile = isMobile;
+
+        function createColumns() {
+          var newColumns = [document.createElement('div')];
+
+          if (!isMobile) {
+            newColumns.push(document.createElement('div'));
+          }
+
+          newColumns.forEach(function(column) {
+            column.className = 'masonry-column';
+          });
+
+          return newColumns;
+        }
+
+        var columns = createColumns();
+
+        function appendColumns() {
+          if (columns.some(function(column) {
+            return column.children.length;
+          })) {
+            var columnGroup = document.createElement('div');
+            columnGroup.className = 'masonry-columns';
+            columns.forEach(function(column) {
+              columnGroup.appendChild(column);
+            });
+            grid.appendChild(columnGroup);
+          }
+        }
+
+        var normalItemIndex = 0;
+
+        items.forEach(function(item) {
+          if (item.classList.contains('portfolio-wide')) {
+            appendColumns();
+            columns = createColumns();
+            normalItemIndex = 0;
+            item.classList.add('masonry-wide');
+            grid.appendChild(item);
+            return;
+          }
+
+          var targetColumn = columns[normalItemIndex % columns.length];
+          normalItemIndex += 1;
+          targetColumn.appendChild(item);
+        });
+
+        appendColumns();
+      }
+
+      function showSection(target) {
+        if (portfolioMain) {
+          portfolioMain.scrollTop = 0;
+        }
+
+        window.scrollTo(0, 0);
+
+        sections.forEach(function(section) {
+          var isActive = section.id === 'section-' + target;
+          section.classList.toggle('active', isActive);
+
+          if (isActive) {
+            setIframeRatios(section);
+            loadImages(section).then(function() {
+              section.querySelectorAll('.portfolio-grid').forEach(layoutGrid);
+              resizeIframes(section);
+            });
+          }
+        });
+
+        links.forEach(function(link) {
+          link.classList.toggle('active', link.getAttribute('data-target') === target);
+        });
+      }
+
+      function closeMenu() {
+        if (sidebar) {
+          sidebar.classList.remove('is-open');
+        }
+
+        if (toggleButton) {
+          toggleButton.setAttribute('aria-expanded', 'false');
+        }
+      }
+
+      if (toggleButton && sidebar) {
+        toggleButton.addEventListener('click', function() {
+          var isOpen = sidebar.classList.toggle('is-open');
+          toggleButton.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+        });
+      }
+
+      function bindSectionLink(link) {
+        link.addEventListener('click', function(event) {
+          event.preventDefault();
+          var target = this.getAttribute('data-target');
+          showSection(target);
+          closeMenu();
+        });
+      }
+
+      links.forEach(bindSectionLink);
+      workTiles.forEach(bindSectionLink);
+
+      window.addEventListener('resize', function() {
+        if (window.innerWidth > 768) {
+          closeMenu();
+        }
+
+        sections.forEach(function(section) {
+          if (section.classList.contains('active')) {
+            section.querySelectorAll('.portfolio-grid').forEach(layoutGrid);
+            resizeIframes(section);
+          }
+        });
+      });
+
+      if (sections.length) {
+        showSection('portfolio');
+      }
+    });
+  </script>
+</body>
+
+</html>
