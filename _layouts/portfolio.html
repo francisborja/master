@@ -28,7 +28,7 @@
             image.addEventListener('load', resolve, { once: true });
             image.addEventListener('error', resolve, { once: true });
             image.src = image.dataset.src + '?v=100';
-            /* REMOVED image.loading = 'lazy'; */
+            image.loading = 'lazy';
             image.removeAttribute('data-src');
 
             if (image.complete) {
